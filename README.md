@@ -1,2 +1,2 @@
 # warthunder-improved-chinese-localisation
-战雷改进汉化模组
+保持旧版汉化组风格的条件下尽可能地将所有载具和武器装备名称使其更贴近准确的名称，同时去除了部分不必要的注释。
