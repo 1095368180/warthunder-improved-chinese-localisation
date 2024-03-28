@@ -7,13 +7,8 @@
 
 本项目是基于旧版汉化组的格式基础上去除了在其最后几次更新实施的不受欢迎的改动后进行的。
 ### 部分特点
-- 旧版汉化的观感  
-![image](https://github.com/1095368180/warthunder-improved-chinese-localisation/assets/33998546/23151266-a208-4933-ab64-7d713d8d0fae)
-* 旧版装备名称  
-![image](https://github.com/1095368180/warthunder-improved-chinese-localisation/assets/33998546/9aa7184d-b521-4b9d-a390-6b46688261e6)
-* 添加了飞机的设计或制造商  
-![image](https://github.com/1095368180/warthunder-improved-chinese-localisation/assets/33998546/1144f567-4365-4d4d-9f28-5b5d6e81624b)
-* 美国飞机获得了完整的美国飞机编号系统编号  
-![image](https://github.com/1095368180/warthunder-improved-chinese-localisation/assets/33998546/a05b31e7-333c-4dcb-965a-727a07982eca)
-
-
+- 旧版汉化的观感（例如重新添加了引号）
+* 旧版装备名称（恢复了部分导弹和车辆的常用译名，但没有额外注释）
+* 添加了飞机的设计或制造商
+* 美国飞机获得了完整的美国飞机编号系统编号
+* 添加了多个海军舰艇的舷号和识别号（例如法国驱逐舰和意大利驱逐舰）
