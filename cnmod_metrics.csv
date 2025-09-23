@@ -1,0 +1,52 @@
+<ID|readonly|noverify>;<Chinese>
+measureUnits/kmh;千米/小时
+measureUnits/mph;英里/小时
+measureUnits/kt;节
+measureUnits/machNumber;马\t赫\t数
+measureUnits/meters_alt;米
+measureUnits/feet_alt;英尺
+measureUnits/km_dist;千米
+measureUnits/meters_dist;米
+measureUnits/feet_dist;英尺
+measureUnits/mile_dist;英里
+measureUnits/yard_dist;码
+measureUnits/days; 天
+measureUnits/hours; 小\t时
+measureUnits/minutes; 分
+measureUnits/seconds;秒
+measureUnits/milliseconds;毫\t秒
+measureUnits/metersPerSecond_climbSpeed;米/秒
+measureUnits/feetPerMinute_climbSpeed;英尺/分
+measureUnits/celsius_temperature;°C
+measureUnits/fahrenheit_temperature;°F
+measureUnits/kgPerSec;千\t克\t/\t秒
+measureUnits/deg_per_sec; 度\t/\t秒
+measureUnits/deg; 度
+measureUnits/degMinutes;ʹ
+measureUnits/degSeconds;ʺ
+measureUnits/rpm;转
+measureUnits/kg_per_sq_meters;千\t克\t/\t平\t方\t米
+measureUnits/lb_per_sq_feet;磅\t/\t平\t方\t英\t尺
+measureUnits/hp_per_kg;马\t力\t/\t千\t克
+measureUnits/hp_per_lb;马\t力\t/\t磅
+measureUnits/mm;毫\t米
+measureUnits/gr;克
+measureUnits/kg;千\t克
+measureUnits/lbs;磅
+measureUnits/ton;吨
+measureUnits/hp;马\t力
+measureUnits/H;牛
+measureUnits/gForce;G
+measureUnits/percent;%
+measureUnits/pcs;份
+measureUnits/rank;等\t级
+measureUnits/rounds_per_min;发\t/\t分
+measureUnits/kilojoule;千\t焦
+measureUnits/mmHg;毫\t米\t汞\t柱
+measureUnits/full/years;{n} {n=\t年\t／\t年}
+measureUnits/full/months;{n} {n=\t月\t／\t月}
+measureUnits/full/days;{n} {n=\t日\t／\t日}
+measureUnits/full/hours;{n} {n=\t时\t／\t时}
+measureUnits/full/minutes;{n} {n=\t分\t／\t分}
+measureUnits/full/seconds;{n} {n=\t秒\t／\t秒}
+measureUnits/perMinute;/\t分

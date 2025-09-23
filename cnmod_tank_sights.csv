@@ -1,0 +1,32 @@
+<ID|readonly|noverify>;<Chinese>
+tankSight/us_modern_sight_with_range;M1 炮\t手\t主\t瞄\t具\t（附\t标\t尺）
+tankSight/us_modern_sight_without_range;M1 炮\t手\t主\t瞄\t具
+tankSight/sw_modern_tank_sight_without_range;FERO Z18 炮\t手\t辅\t助\t瞄\t具
+tankSight/sw_modern_tank_sight_with_range;FERO Z18 炮\t手\t辅\t助\t瞄\t具\t（附\t标\t尺）
+tankSight/sw_ifv_sight_without_range;UTAAS 火\t控\t瞄\t具
+tankSight/sw_ifv_sight_with_range;UTAAS 火\t控\t瞄\t具\t（附\t标\t尺）
+tankSight/ussr_modern_sight_with_range;TPD-K1 火\t控\t瞄\t具
+tankSight/ussr_sosna_u_sight;松\t树\t-U 火\t控\t瞄\t具
+tankSight/ussr_2s38_sight;1PN147 火\t控\t瞄\t具
+tankSight/ussr_spaa_sight;ZAP 23 KV-L 准\t直\t瞄\t具
+tankSight/tpd_2_49;TPD-2-49 炮\t手\t瞄\t具
+tankSight/tsh2b_41;TSh-2B-41 炮\t手\t瞄\t具
+tankSight/western_modern_tanks_range_1;M1 炮\t手\t主\t瞄\t具\t（附\t标\t尺）
+tankSight/western_modern_tanks_2;M1 炮\t手\t主\t瞄\t具
+tankSight/western_modern_tanks_range_4;FERO Z18 炮\t手\t辅\t助\t瞄\t具\t（附\t标\t尺）
+tankSight/western_modern_tanks_3;FERO Z18 炮\t手\t辅\t助\t瞄\t具
+tankSight/ussr_rf_modern_tanks_1;TPD-K1 火\t控\t瞄\t具
+tankSight/ussr_rf_modern_tanks_2;松\t树\t-U 火\t控\t瞄\t具
+tankSight/ussr_rf_modern_afv;1PN147 火\t控\t瞄\t具
+tankSight/cn_modern_tanks_1;ISFCS-212 火\t控\t瞄\t具
+tankSight/cn_modern_tanks_2;ISFCS-212 火\t控\t瞄\t具\t（环\t式）
+tankSight/leclerc_v1;HL 60 火\t控\t瞄\t具
+tankSight/leclerc_v1_range;HL 60 火\t控\t瞄\t具\t（附\t标\t尺）
+tankSight/leclerc_thermal;HL 60 火\t控\t瞄\t具\t（热\t成\t像）
+tankSight/leclerc;HL 60 火\t控\t瞄\t具
+tankSight/leclerc_with_range;HL 60 火\t控\t瞄\t具\t（附\t标\t尺）
+tankSight/challenger2;TOGS 2 火\t控\t瞄\t具
+tankSight/merkava_v1;闪\t电\t改\t进\t型\t火\t控\t瞄\t具
+tankSight/merkava_v2;闪\t电\t火\t控\t瞄\t具
+tankSight/ariete;TURMS 火\t控\t瞄\t具
+tankSight/ariete_range;TURMS 火\t控\t瞄\t具\t（附\t标\t尺）

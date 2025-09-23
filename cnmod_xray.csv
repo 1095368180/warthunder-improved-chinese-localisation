@@ -1,0 +1,17 @@
+<ID|readonly|noverify>;<Chinese>
+xray_part_filter;内\t构\t视\t图\t筛\t选
+xray/filter/weapon;武\t器
+xray/filter/ammo;弹\t药
+xray/filter/propulsion;动\t力
+xray/filter/crew;乘\t员
+xray/filter/fuel;燃\t料
+xray/filter/sensors_optics;传\t感\t器\t与\t观\t瞄\t系\t统
+xray/filter/drives;方\t向\t机\t与\t高\t低\t机
+xray/filter/electronic;电\t子\t设\t备
+xray/filter/armor;装\t甲
+xray/filter/artillery_ship;火\t炮
+xray/filter/torpedoes_ship;鱼\t雷
+xray/filter/ship_control;控\t制\t部\t分
+xray/filter/fire_control_ship;火\t控\t系\t统
+xray/filter/aux_weapons_ship;副\t武\t器
+xray/filter/damage_control_ship;损\t害\t控\t制\t系\t统
