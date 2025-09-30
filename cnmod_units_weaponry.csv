@@ -533,7 +533,7 @@ weapons/us_2000lb_agm_130a;AGM-130A 空\t对\t地\t导\t弹
 weapons/us_2000lb_agm_130a/short;AGM-130A
 weapons/us_2000lb_agm_130a_12;AGM-130A-12 空\t对\t地\t导\t弹
 weapons/us_2000lb_agm_130a_12/short;AGM-130A-12
-weapons/kr_kggb;KGGB 制\t导\t炸\t弹
+weapons/kr_kggb;韩\t国\t型 GPS 制\t导\t炸\t弹
 weapons/kr_kggb/short;KGGB
 weapons/us_gbu_12_paveway_2;GBU-12/B\t“宝\t石\t路”\tII 制\t导\t炸\t弹
 weapons/us_gbu_12_paveway_2/short;GBU-12/B\t“宝\t石\t路”\tII
@@ -2651,7 +2651,7 @@ weapons/uk_1000lbs_mc_mk1_mk2_bomb;1,000 磅 MC Mk I 炸\t弹
 weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;1,000 磅
 weapons/uk_520lb_herl_mk_1_n;520 磅 HERL Mk IN 炸\t弹
 weapons/uk_520lb_herl_mk_1_n/short;520 磅
-weapons/uk_1650lb_sn_he;1,650 磅 SN 炸\t弹
+weapons/uk_1650lb_sn_he;1,650 磅 SNHE 炸\t弹
 weapons/uk_1650lb_sn_he/short;1,650 磅
 weapons/cannonADEN;30 毫\t米\t“阿\t登”\t机\t炮
 weapons/cannonADEN_mk4;30 毫\t米\t“阿\t登”\tMk 4 机\t炮
@@ -4898,10 +4898,10 @@ weapons/75mm_41M_user_cannon;75 毫\t米 41M 坦\t克\t炮
 75mm_42_38m;42/38M
 75mm_42_36m;42/36M
 weapons/57mm_Bofors_L70_Mk_1_user_cannon;57 毫\t米\t博\t福\t斯 L/70 Mk 1 高\t射\t炮
-57_438mm_ap;57\tх\t438 穿\t甲\t曳\t光\t弹
-57_438mm_he;57\tх\t438 高\t爆\t曳\t光\t弹
-57_438mm_he_vt;57\tх\t438 近\t炸\t引\t信\t高\t爆\t弹
-57_438mm_sap;57\tх\t438 半\t穿\t甲\t曳\t光\t弹
+57_438mm_ap;m/67 曳\t光\t穿\t甲\t弹
+57_438mm_he;m/70 榴\t弹
+57_438mm_he_vt;m/70 预\t制\t破\t片\t榴\t弹
+57_438mm_sap;m/70 曳\t光\t半\t穿\t甲\t榴\t弹
 apds_fs_long_tank/name;尾\t翼\t稳\t定\t脱\t壳\t穿\t甲\t弹\t（长\t杆）
 apds_fs_long_tank/name/short;APFSDS
 apds_fs_tungsten_caliber_fins_tank/name;尾\t翼\t稳\t定\t脱\t壳\t穿\t甲\t弹\t（钨\t芯）
@@ -5296,7 +5296,7 @@ weapons/155mm_T7_user_cannon;155 毫\t米 T7 坦\t克\t炮
 weapons/203mm_m47_user_cannon;203 毫\t米 M47 榴\t弹\t炮
 weapons/155mm_t180_user_cannon;155 毫\t米 T180 坦\t克\t炮
 155mm_m107;M107
-155mm_t152;T152
+155mm_t152;T152E5
 155_mm_t267;T267
 203mm_m106;M106
 155mm_m110;M110
@@ -6288,7 +6288,7 @@ up_mk1;UP Mk I 火\t箭
 weapons/rocket_rim_24_a_naval_rocket_launcher;RIM-24A\t“鞑\t靼\t人”\t地\t对\t空\t导\t弹
 weapons/rocket_rim_24_a_naval_rocket_launcher/short;RIM-24A\t“鞑\t靼\t人”
 rim_24;RIM-24A\t“鞑\t靼\t人”
-weapons/rocket_mk11_naval_rocket_launcher;Mark 11 导\t弹\t发\t射\t系\t统
+weapons/rocket_mk11_naval_rocket_launcher;Mark 11 制\t导\t导\t弹\t发\t射\t系\t统
 weapons/rocket_mk11_naval_rocket_launcher/short;Mark 11 GMLS
 weapons/52mm_55_skl55_naval_user_cannon;52 毫\t米 SK L/55 舰\t炮
 52mm_sprgr_he;SprGr.

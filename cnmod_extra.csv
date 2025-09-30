@@ -1,9 +1,12 @@
 <ID|readonly|noverify>;<Chinese>
 <CUSTOM_TOOLTIP>;
-mainmenu/custom_lang_info;请\t定\t期\t更\t新\t非 MOD 文\t本\t文\t件
+mainmenu/custom_lang_info;请\t定\t期\t更\t新\t非\t汉\t化\t模\t块\t文\t本\t文\t件
 mainmenu/custom_lang_info/tooltip;点\t击\t并\t参\t阅\t设\t置\t中\t“自\t定\t义\t文\t本”\t选\t项\t以\t获\t得\t更\t多\t信\t息
 guiHints/customLang;"使\t用\t“lang”\t文\t件\t夹\t中\t的\t自\t定\t义\t本\t地\t化\t文\t本\t而\t不\t是\t官\t方\t本\t地\t化\t文\t本。\t使\t用\t自\t定\t义\t本\t地\t化\t可\t能\t发\t生\t错\t误\t或\t使\t游\t戏\t内\t文\t本\t无\t法\t正\t常\t显\t示。
-<color=@badTextColor>若\t要\t更\t新\t非\t自\t定\t义\t本\t地\t化\t文\t件，\t请\t删\t除\t“lang”\t文\t件\t夹\t后\t重\t启\t游\t戏，\t并\t重\t新\t执\t行\t安\t装\t步\t骤，\t再\t切\t换\t一\t次\t语\t言\t。\t建\t议\t每\t一\t次\t版\t本\t更\t新\t都\t执\t行\t此\t操\t作。</color>"
+<color=@badTextColor>若\t要\t在\t线\t更\t新\t非\t自\t定\t义\t文\t本\t文\t件，\t请\t删\t除\t“lang”\t文\t件\t夹\t后\t重\t启\t游\t戏，\t并\t重\t新\t执\t行\t安\t装\t步\t骤，\t再\t切\t换\t一\t次\t语\t言\t。\t建\t议\t每\t一\t次\t版\t本\t更\t新\t都\t执\t行\t此\t操\t作。
+若\t要\t不\t在\t线\t更\t新\t非\t自\t定\t义\t文\t本\t文\t件，\t请\t访\t问\t以\t下\t链\t接\t并\t下\t载\t所\t有 csv 后\t缀\t文\t件\t替\t换\t官\t方\t本\t地\t化\t文\t件\t或\t自\t行\t解\t包\t替\t换：\t</color>
+<color=@linkTextColor>https://github.com/gszabi99/War-Thunder-Datamine/tree/master/lang.vromfs.bin_u/lang</color>
+<color=@userlogColoredText>若\t要\t修\t改\t本\t汉\t化\t模\t块\t的\t内\t容，\t请\t在\t“cnmod_extra.csv”\t文\t件\t中\t添\t加\t相\t关\t条\t目\t以\t覆\t盖\t本\t汉\t化\t模\t块\t的\t翻\t译，\t执\t行\t更\t新\t过\t程\t时\t请\t保\t留\t自\t定\t义\t的\t文\t件。</color>"
 mainmenu/customSoundMods;
 mainmenu/customSoundMods/tooltip;
 <将 TAG 放在该列>;<将翻译文本放在该列>
