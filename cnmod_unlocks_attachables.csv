@@ -488,7 +488,7 @@ attachables/decor_fuel_pallet;软\t体\t油\t箱;
 attachables/maxim_gun_blockade;PM1910 机\t枪\t（路\t障）;
 attachables/decor_new_year_dragon;翠\t玉\t苍\t龙;
 attachables/decor_dakimakura_anime_french;瓦\t莱\t丽\t等\t身\t抱\t枕;
-attachables/decor_dakimakura_anime_german;艾\t莎\t等\t身\t抱\t枕;
+attachables/decor_dakimakura_anime_german;艾\t尔\t莎\t等\t身\t抱\t枕;
 attachables/red_army_hat;布\t琼\t尼\t帽;
 attachables/decor_goalkeeper_cup;2024 最\t佳\t足\t球\t运\t动\t员;
 attachables/decor_wheel_spike_md;尖\t刺\t装\t甲;
@@ -565,6 +565,9 @@ attachables/type98_shin_gunto_nine/desc;“入\t海\t为\t尸\t水\t中\t存，\
 attachables/decor_golden_tank_bullet_heat_fs;黄\t金\t尾\t翼\t稳\t定\t破\t甲\t弹;
 attachables/decor_chinese_thompson;晋\t造\t汤\t姆\t逊\t手\t提\t机\t枪;
 attachables/decor_robo_dog;机\t器\t狗;
-attachables/decor_robo_dog/desc;"游\t侠\t是\t一\t种\t自\t主\t四\t足\t攻\t击\t机\t器\t人。\t它\t是\t玩\t家\t可\t以\t召\t唤\t参\t战\t的\t工\t具\t之\t一，\t图\t中\t显\t示\t它\t被\t空\t投\t到\t活\t跃\t的\t战\t区。
+attachables/decor_robo_dog/desc;"游\t侠\t是\t一\t种\t自\t主\t四\t足\t攻\t击\t机\t器\t人。\t它\t是\t玩\t家\t可\t以\t召\t唤\t参\t战\t的\t工\t具\t之\t一，\t它\t可\t被\t空\t投\t到\t活\t跃\t的\t战\t区。
 <color=@buttonCloseColorHover>（啊\t不\t好\t意\t思\t走\t错\t了）</color>";
+attachables/decor_dakimakura_anime_elsa;艾\t尔\t莎\t等\t身\t抱\t枕;
+attachables/decor_dakimakura_anime_kate;凯\t特\t等\t身\t抱\t枕;
+attachables/decor_dakimakura_anime_maria;玛\t丽\t亚\t等\t身\t抱\t枕;
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;;
