@@ -25,7 +25,7 @@ country_korea;朝\t鲜
 country_usa_modern;美\t国
 country_germany_modern;联\t邦\t德\t国
 country_japan_modern;日\t本
-country_russia;俄\t罗\t斯\t联\t邦
+country_russia;俄\t罗\t斯
 country_italy_kingdom;意\t大\t利\t王\t国
 country_portugal;葡\t萄\t牙
 country_syria;叙\t利\t亚\t阿\t拉\t伯\t共\t和\t国
@@ -36,7 +36,7 @@ country_vietnam;越\t南
 country_turkey;土\t耳\t其
 country_cuba;古\t巴
 country_philippines;菲\t律\t宾
-country_czech;捷\t克\t共\t和\t国
+country_czech;捷\t克
 country_gdr;民\t主\t德\t国
 country_north_korea;朝\t鲜
 country_south_korea;韩\t国
@@ -64,3 +64,15 @@ country_iran;伊\t朗
 country_colombia;哥\t伦\t比\t亚
 country_triple_entente;协\t约\t国
 country_indonesia;印\t度\t尼\t西\t亚
+country_venezuela;委\t内\t瑞\t拉
+country_malaysia;马\t来\t西\t亚
+<MAIN>;
+country_britain;英\t国
+country_china;中\t国
+country_germany;德\t国
+country_japan;日\t本
+country_usa;美\t国
+country_ussr;苏\t联
+country_sweden;瑞\t典
+country_egypt;埃\t及
+country_israel;以\t色\t列

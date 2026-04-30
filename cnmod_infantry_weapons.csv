@@ -1,0 +1,307 @@
+<ID|readonly|noverify>;<Chinese>;<Comments>;<max_chars>
+<INF_WEAP_PRIMARY>;;;
+ak_12_shop;AK-12;;
+ak_12_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
+5.45 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t自\t动\t步\t枪 2012 型 (6P70M)";推测型号;
+ak_12_1;AK-12;;
+ak_12_2;突\t击\t步\t枪;;
+ak_15_shop;AK-15;;
+ak_15_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
+5.45 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t自\t动\t步\t枪 2015 型 (6P71M)";;
+ak_15_1;AK-15;;
+ak_15_2;突\t击\t步\t枪;;
+ak_74m_shop;AK-74M;;
+ak_74m_0;"伊\t热\t夫\t斯\t克\t机\t械\t制\t造\t厂
+5.45 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t自\t动\t步\t枪 1974 现\t代\t化\t型 (6P34)";;
+ak_74m_1;AK-74M;;
+ak_74m_2;突\t击\t步\t枪;;
+akm_47_shop;AKM;;
+akm_47_0;"伊\t热\t夫\t斯\t克\t机\t械\t制\t造\t厂
+7.62 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t自\t动\t步\t枪\t现\t代\t化\t型 (6P1)";;
+akm_47_1;AKM;;
+akm_47_2;突\t击\t步\t枪;;
+aksu_74_shop;AKS-74U;;
+aksu_74_0;"伊\t热\t夫\t斯\t克\t机\t械\t制\t造\t厂
+5.45 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t折\t叠\t式\t自\t动\t步\t枪 1974 缩\t短\t型 (6P26)";;
+aksu_74_1;AKS-74U;;
+aksu_74_2;突\t击\t步\t枪;;
+asm_val_shop;ASM\t“中\t轴”;;
+asm_val_0;"中\t央\t精\t密\t工\程\t研\t究\t所
+9 毫\t米\t特\t殊\t自\t动\t步\t枪\t现\t代\t化\t型 (6P30M)";;
+asm_val_1;ASM;;
+asm_val_2;突\t击\t步\t枪;;
+colt_9_mm_smg_shop;M635;;
+colt_9_mm_smg_0;"柯\t尔\t特\t制\t造\t公\t司
+9 毫\t米\t柯\t尔\t特 635 型\t冲\t锋\t枪";推测型号;
+colt_9_mm_smg_1;M635;;
+colt_9_mm_smg_2;冲\t锋\t枪;;
+kord_6p67_shop;6P67 Kord;;
+kord_6p67_0;"科\t夫\t罗\t夫\t机\t械\t厂
+5.45 毫\t米 Kord 自\t动\t步\t枪 (6P67)";;
+kord_6p67_1;6P67 Kord;;
+kord_6p67_2;突\t击\t步\t枪;;
+kord_6p68_shop;6P68 Kord;;
+kord_6p68_0;"科\t夫\t罗\t夫\t机\t械\t厂
+7.62 毫\t米 Kord 自\t动\t步\t枪 (6P68)";;
+kord_6p68_1;6P68 Kord;;
+kord_6p68_2;突\t击\t步\t枪;;
+m110a1_sdmr_shop;M110A1 SDMR;;
+m110a1_sdmr_0;"奈\t特\t军\t械\t公\t司
+7.62 毫\t米\t步\t枪 M110A1 班\t组\t指\t定\t射\t手\t步\t枪";;
+m110a1_sdmr_1;M110A1 SDMR;;
+m110a1_sdmr_2;射\t手\t步\t枪;;
+m16a1_shop;M16A1;;
+m16a1_0;"柯\t尔\t特\t制\t造\t公\t司
+5.56 毫\t米\t步\t枪 M16A1";;
+m16a1_1;M16A1;;
+m16a1_2;突\t击\t步\t枪;;
+m16a4_shop;M16A4;;
+m16a4_0;"柯\t尔\t特\t制\t造\t公\t司
+5.56 毫\t米\t步\t枪 M16A4";;
+m16a4_1;M16A4;;
+m16a4_2;突\t击\t步\t枪;;
+m249_para_shop;M249 Para;;
+m249_para_0;"FN 美\t国
+5.56 毫\t米\t机\t枪 M249 伞\t兵\t型";;
+m249_para_1;M249 Para;;
+m249_para_2;机\t枪;;
+m4a1_shop;M4A1;;
+m4a1_0;"柯\t尔\t特\t制\t造\t公\t司
+5.56 毫\t米\t卡\t宾\t枪 M4A1";;
+m4a1_1;M4A1;;
+m4a1_2;突\t击\t步\t枪;;
+mac_11_shop;M11;;
+mac_11_0;"军\t事\t装\t备\t公\t司
+M11";;
+mac_11_1;M11;;
+mac_11_2;冲\t锋\t枪;;
+mcmillan_tac_50_shop;MK 15 SASR;;
+mcmillan_tac_50_0;"麦\t克\t米\t兰\t枪\t械
+.50 口\t径\t狙\t击\t步\t枪 MK 15 MOD 1 特\t殊\t用\t途\t狙\t击\t步\t枪";;
+mcmillan_tac_50_1;MK 15 SASR;;
+mcmillan_tac_50_2;狙\t击\t步\t枪;;
+mk_14_ebr_shop;MK 14 EBR;;
+mk_14_ebr_0;"史\t密\t斯\t企\t业\t公\t司
+7.62 毫\t米\t步\t枪 MK 14 MOD 0 增\t强\t型\t战\t斗\t步\t枪";;
+mk_14_ebr_1;MK 14 EBR;;
+mk_14_ebr_2;战\t斗\t步\t枪;;
+mk_48_shop;MK 48;;
+mk_48_0;"FN 美\t国
+7.62 毫\t米\t机\t枪 MK 48 MOD 0";;
+mk_48_1;MK 48;;
+mk_48_2;机\t枪;;
+pp_19_bizon_shop;PP-19\t“野\t牛”;;
+pp_19_bizon_0;"伊\t热\t夫\t斯\t克\t机\t械\t制\t造\t厂
+9 毫\t米 PP-19 冲\t锋\t枪";;
+pp_19_bizon_1;PP-19;;
+pp_19_bizon_2;冲\t锋\t枪;;
+ks_p_18_5_shop;18.5 KS-K;;
+ks_p_18_5_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
+18.5 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t特\t种\t卡\t宾\t枪";;
+ks_p_18_5_1;18.5 KS-K;;
+ks_p_18_5_2;霰\t弹\t枪;;
+mossberg_590_shop;M590;;
+mossberg_590_0;"O. F. 莫\t斯\t伯\t格\t父\t子
+12 号\t口\t径\t防\t暴\t型\t霰\t弹\t枪 M590";;
+mossberg_590_1;M590;;
+mossberg_590_2;霰\t弹\t枪;;
+beretta_m9_shop;M9;;
+beretta_m9_0;"贝\t雷\t塔\t美\t国
+9 毫\t米\t半\t自\t动\t手\t枪 M9";;
+beretta_m9_1;M9;;
+beretta_m9_2;手\t枪;;
+mp_443_shop;MP-443\t“乌\t鸦”;;
+mp_443_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
+9 毫\t米\t亚\t雷\t金\t手\t枪 (6P35)";;
+mp_443_1;MP-443;;
+mp_443_2;手\t枪;;
+pp_19_vityaz_shop;PP-19-01\t“勇\t士”;;
+pp_19_vityaz_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
+9 毫\t米 PP-19-01 冲\t锋\t枪";;
+pp_19_vityaz_1;PP-19-01;;
+pp_19_vityaz_2;冲\t锋\t枪;;
+pp_2000_shop;PP-2000;;
+pp_2000_0;"精\t密\t仪\t器\t设\t计\t局
+9 毫\t米 PP-2000 冲\t锋\t枪 (6P61)";;
+pp_2000_1;PP-2000;;
+pp_2000_2;冲\t锋\t枪;;
+rpk_16_shop;RPK-16;;
+rpk_16_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
+5.45 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t手\t持\t机\t枪 2016 型";;
+rpk_16_1;RPK-16;;
+rpk_16_2;机\t枪;;
+rpk_74m_shop;RPK-74M;;
+rpk_74m_0;"维\t亚\t特\t卡-波\t利\t亚\t尼\t\t机\t械\t制\t造\t厂
+5.45 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t手\t持\t机\t枪 1974 现\t代\t化\t型 (6P39)";;
+rpk_74m_1;RPK-74M;;
+rpk_74m_2;机\t枪;;
+sig_xm250_shop;M250;;
+sig_xm250_0;"西\t格\t绍\t尔
+6.8 毫\t米\t机\t枪 M250";;
+sig_xm250_1;M250;;
+sig_xm250_2;机\t枪;;
+sig_xm5_shop;M7;;
+sig_xm5_0;"西\t格\t绍\t尔
+6.8 毫\t米\t步\t枪 M7";;
+sig_xm5_1;M7;;
+sig_xm5_2;战\t斗\t步\t枪;;
+fn_scar_shop;MK 16;;
+fn_scar_0;"FN 美\t国
+5.56 毫\t米\t步\t枪 MK 16 MOD 0";;
+fn_scar_1;MK 16;;
+fn_scar_2;突\t击\t步\t枪;;
+fn_scar_l_shop;MK 16;;
+fn_scar_l_0;"FN 美\t国
+5.56 毫\t米\t步\t枪 MK 16 MOD 0";;
+fn_scar_l_1;MK 16;;
+fn_scar_l_2;突\t击\t步\t枪;;
+svd_shop;SVD;;
+svd_0;"伊\t热\t夫\t斯\t克\t机\t械\t制\t造\t厂
+7.62 毫\t米\t德\t拉\t贡\t诺\t夫\t狙\t击\t步\t枪 (6V1)";;
+svd_1;SVD;;
+svd_2;射\t手\t步\t枪;;
+svd_m_shop;SVDM;;
+svd_m_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
+7.62 毫\t米\t德\t拉\t贡\t诺\t夫\t狙\t击\t步\t枪\t现\t代\t化\t型 (6V11)";;
+svd_m_1;SVDM;;
+svd_m_2;射\t手\t步\t枪;;
+vssm_vintorez_shop;VSSM\t“螺\t纹\t刀”;;
+vssm_vintorez_0;"中\t央\t精\t密\t工\t程\t研\t究\t所
+9 毫\t米\t特\t种\t狙\t击\t步\t枪 (6P29M)";;
+vssm_vintorez_1;VSSM;;
+vssm_vintorez_2;突\t击\t步\t枪;;
+<INF_WEAP_SECONDARY>;;;
+weapons/ammo_box;弹\t药\t箱;;
+ammo_box;弹\t药\t箱;;
+weapons/ammo_box/desc;可\t在\t战\t斗\t中\t为\t友\t军\t补\t给\t弹\t药，\t数\t量\t有\t限。;;
+weapons/explosives_box_item;爆\t炸\t物\t弹\t药\t箱;;
+explosives_box_item;爆\t炸\t物\t弹\t药\t箱;;
+weapons/explosives_box_item/desc;可\t在\t战\t斗\t中\t为\t友\t军\t补\t给\t爆\t炸\t物，\t数\t量\t有\t限。;;
+weapons/frag_grenade;破\t片\t手\t榴\t弹;;
+frag_grenade;破\t片\t手\t榴\t弹;;
+weapons/frag_grenade/desc;用\t于\t杀\t伤\t步\t兵\t的\t爆\t炸\t性\t弹\t药。;;
+weapons/ks_p;18.5 KS-K 霰\t弹\t枪;;
+ks_p;18.5 KS-K;;
+weapons/ks_p/desc;霰\t弹\t枪\t对\t无\t人\t机\t较\t为\t有\t效，\t不\t建\t议\t用\t于\t攻\t击\t有\t防\t护\t的\t步\t兵。;;
+weapons/m136_at4;M136 AT4 反\t坦\t克\t火\t箭\t发\t射\t器;;
+m136_at4;M136 AT4;;
+weapons/m136_at4/desc;84 毫\t米\t发\t射\t器\t与\t弹\t药 M136;;
+weapons/medic_box;急\t救\t箱;;
+medic_box;急\t救\t箱;;
+weapons/medic_box/desc;可\t在\t战\t斗\t中\t为\t友\t军\t补\t给\t急\t救\t包，\t数\t量\t有\t限。;;
+weapons/mossberg_590;M590 霰\t弹\t枪;;
+mossberg_590;M590;;
+weapons/mossberg_590/desc;12 号\t口\t径\t防\t暴\t型\t霰\t弹\t枪 M590;;
+weapons/mpads_igla;9K38\t“针”\t便\t携\t式\t防\t空\t导\t弹;;
+mpads_igla;9K38\t“针”;;
+weapons/mpads_igla/desc;9K38\t“针”\t便\t携\t式\t防\t空\t系\t统;;
+weapons/mpads_stinger;FIM-92A\t“毒\t刺”\t便\t携\t式\t防\t空\t导\t弹;;
+mpads_stinger;FIM-92A\t“毒\t刺”;;
+weapons/mpads_stinger/desc;对\t空\t拦\t截\t制\t导\t导\t弹 FIM-92A;;
+weapons/pkp_pecheneg;PKP\t“佩\t切\t涅\t格”\t轻\t机\t枪;;
+pkp_pecheneg;PKP\t“佩\t切\t涅\t格”;;
+weapons/pkp_pecheneg/desc;7.62 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t步\t兵\t机\t枪;;
+weapons/pslr_1_default;PSRL-1 精\t确\t肩\t射\t火\t箭\t发\t射\t器;;
+pslr_1_default;PSRL-1;;
+weapons/pslr_1_default/desc;AirTronic USA 精\t确\t肩\t射\t火\t箭\t发\t射\t器\t-1;;
+weapons/reapr;REAPR 轻\t机\t枪;;
+reapr;REAPR;;
+weapons/reapr/desc;俄\t亥\t俄\t军\t械 REAPR\t（后\t坐\t力\t增\t强\t型\t自\t动\t精\t确\t步\t枪）;;
+weapons/rpg_7;RPG-7 发\t射\t器;;
+rpg_7;RPG-7;;
+weapons/rpg_7/desc;手\t持\t反\t坦\t克\t榴\t弹\t发\t射\t器 RPG-7;;
+weapons/rpg_7_default;RPG-7 发\t射\t器;;
+rpg_7_default;RPG-7;;
+weapons/rpg_7_default/desc;手\t持\t反\t坦\t克\t榴\t弹\t发\t射\t器 RPG-7;;
+weapons/smoke_grenade;烟\t雾\t弹;;
+smoke_grenade;烟\t雾\t弹;;
+weapons/smoke_grenade/desc;用\t于\t信\t号\t或\t建\t立\t烟\t雾\t区\t并\t隐\t藏\t位\t置\t的\t的\t手\t榴\t弹。;;
+weapons/stun_grenade;震\t撼\t弹;;
+stun_grenade;震\t撼\t弹;;
+weapons/stun_grenade/desc;用\t于\t暂\t时\t使\t敌\t方\t失\t去\t作\t战\t能\t力\t的\t非\t致\t命\t武\t器。;;
+<INF_AMMUNITION>;;;
+45acp_m1911_fmj;M1911;;
+45acp_m26_fmj_t;M26;;
+45acp_jhp;JHP;;
+12_7mm_sn;7N34;;
+12_7mm_b32;57-BZ-542;;
+12_7mm_bs41;57-BZ-543;;
+12_7mm_m20;M20;;
+14_5mm_bs41;57-BZ-562;;
+7_62mm_m2_ball;М2;;
+7_62mm_ap;M2;;
+7_62mm_tracer;M1;;
+4_6mm_ap_sx;Action SX;;
+5_45mm_7n24_ap;7N24;;
+5_45mm_7n39_ap;7N39;;
+5_45mm_7n6_gp;7N6;;
+5_45mm_7n6m_ep;7N6M;;
+5_45mm_7n10_ep;7N10;;
+5_45mm_7n22_ep;7N22;;
+5_45mm_7t3_tracer;7T3;;
+5_56mm_m995_ap;M995;;
+5_56mm_m193_ball;M193;;
+5_56mm_m196_tracer;M196;;
+5_56mm_m855_ep;M855;;
+5_56mm_m855a1_ep;M855A1;;
+5_56mm_m856_tracer;M856;;
+5_8mm_dbp_87_gp;DBP87;;
+6_0mm_buckshot;#4 鹿\t弹;;
+6_8mm_m1186_gp;M1186;;
+6_8mm_m1184_ap;M1184;;
+6_8mm_m1187_t;M1187;;
+7_62mm_tt;57-N-134;;
+7_62mm_57n134s;57-N-134S;;
+7_62mm_bz_ap;57-BZ-231;;
+7_62mm_m1943_gp;57-N-231;;
+7_62mm_57n231_gp;57-N-231;;
+7_62mm_57n231_ep;57-N-231M;;
+7_62mm_7n23_ap;7N23;;
+7_62mm_57t231_tracer;57-T-231;;
+7_62mm_m993_ap;M993;;
+7_62mm_m118_ball;M118;;
+7_62mm_m80_ball;M80;;
+7_62mm_m59_ball;M59;;
+7_62mm_m61_ap;M61;;
+7_62mm_m62_tracer;M62;;
+7_62mm_57n223s_gp;57-N-223S-01;;
+7_62mm_57n223s_st_m2_ep;57-N-223S-ST-M2;;
+7_62mm_57n223_gp;57-N-223;;
+7_62mm_57b222;57-B-222;;
+7_62mm_57bz322;57-BZ-322;;
+7_62mm_57bzt322;57-BZT-322;;
+7_62mm_bs_40;BS-40;;
+7_62mm_7n1;7N1;;
+7_62mm_7n13_ap;7N13;;
+7_62mm_7n14_ap;7N14;;
+7_62mm_7n26_ap;7N26;;
+7_62mm_7n37_hc;7N37;;
+7_62mm_7bt1_tracer;7BT1;;
+7_62mm_7t2_tracer;7T2;;
+7_62mm_t_30;57-T-322;;
+7_62mm_t_46;57-T-322;;
+9mm_57n181_fmj;57-N-181;;
+9mm_57n181s_sc;57-N-181S;;
+9mm_57t181_sc_t;57-T-181;;
+9mm_7n15_ap;7N15;;
+9mm_7n25_ap;7N25;;
+9mm_ppe_hp;PPe;;
+9mm_7n31_ap;7N31;;
+9mm_7n21_ap;7N21;;
+9mm_m882_fmj;M882;;
+9mm_m1152_fmj;M1152;;
+9mm_m1153_jhp;M1153;;
+9mm_ppatr08;Patr. 08;;
+9mm_sp10_ap;7N29;;
+9mm_sp11_ball;7N28;;
+9mm_sp12_hp;SP-12;;
+9mm_sp13_ap;7BT3;;
+9mm_sp5_ball;7N8;;
+9mm_sp6_ap;7N9;;
+9mm_pab_9_ap;PAB-9;;
+9mm_bp_ap;BP;;
+9mm_spp_ap;SPP;;
+su_9M39;9M39\t“针”;;
+rpg_2_rocket;PG-2V;;
+93mm_pg_7vl;PG-7VL;;
+84mm_at4;M136;;
