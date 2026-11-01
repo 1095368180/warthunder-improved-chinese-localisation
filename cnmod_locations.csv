@@ -3,6 +3,9 @@
 location/air_falklands;福\t克\t兰\t群\t岛
 location/air_kamchatka;堪\t察\t加
 location/air_pyrenees;比\t利\t牛\t斯
+location/water_east_china_sea;东\t中\t国\t海
+location/avn_japan;相\t模\t湾
+location/avg_falklands;达\t尔\t文\t港
 <LOCATION_DESC>;
 africa_desert/desc;埃\t及\t马\t特\t鲁\t省
 alps/desc;阿\t尔\t卑\t斯\t山\t脉
@@ -20,7 +23,7 @@ korea/desc;韩\t国\t江\t原\t道
 krymsk/desc;苏\t联\t克\t拉\t斯\t诺\t达\t尔\t边\t疆\t区
 kursk/desc;苏\t联\t普\t罗\t霍\t罗\t夫\t卡
 kursk_villages/desc;苏\t联\t普\t罗\t霍\t罗\t夫\t卡
-mozdok/desc;苏\t联\t北\t高\t加\t索\t地\t区
+mozdok/desc;苏\t联\t斯\t塔\t夫\t罗\t波\t尔\t边\t疆\t区
 normandy_02/desc;法\t国\t滨\t海\t圣\t洛\t朗
 normandy/desc;法\t国\t滨\t海\t圣\t洛\t朗
 poland_02/desc;捷\t克\t维\t索\t卡\t塞\t布\t斯\t卡
@@ -55,4 +58,12 @@ nuclear_incident/desc;美\t国\t阿\t拉\t斯\t加\t州
 location/hvg_granitograd;格\t拉\t尼\t特\t格\t勒
 location/hvg_training_ground;训\t练\t场
 missions/testRun;测\t试\t任\t务
-missions/granitograd_infdom;格\t拉\t尼\t特\t格\t勒
+missions/almassa_infdom;【抢\t攻】\t马\t萨
+missions/almassa_palace_infdom;【征\t服】\t马\t萨 • 宫\t殿
+missions/almassa_bazar_infdom;【征\t服】\t马\t萨 • 集\t市
+missions/almassa_tvtower_infdom;【征\t服】\t马\t萨 • 电\t视\t台
+missions/granitograd_infdom;【抢\t攻】\t格\t拉\t尼\t特\t格\t勒
+missions/granitograd_police_infdom;【征\t服】\t格\t拉\t尼\t特\t格\t勒 • 警\t察\t局
+missions/granitograd_shop_infdom;【征\t服】\t格\t拉\t尼\t特\t格\t勒 • 商\t店
+missions/granitograd_workshop_infdom;【征\t服】\t格\t拉\t尼\t特\t格\t勒 • 车\t间
+missions/kivu_infdom;【抢\t攻】\t基\t伍

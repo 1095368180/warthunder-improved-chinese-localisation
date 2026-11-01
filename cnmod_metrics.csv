@@ -50,3 +50,12 @@ measureUnits/full/hours;{n} {n=\t时\t／\t时}
 measureUnits/full/minutes;{n} {n=\t分\t／\t分}
 measureUnits/full/seconds;{n} {n=\t秒\t／\t秒}
 measureUnits/perMinute;/\t分
+<ENGINE_ORDER_TELEGRAPH_BELOW>;
+HUD/ENGINE_REV_AHEAD_SHORT;进
+HUD/ENGINE_REV_BACK_SHORT;退
+HUD/ENGINE_REV_STOP_SHORT;备\t车
+HUD/ENGINE_REV_ONE_THIRD_SHORT;慢\t速
+HUD/ENGINE_REV_TWO_THIRDS_SHORT;半\t速
+HUD/ENGINE_REV_STANDARD_SHORT;巡\t航
+HUD/ENGINE_REV_FULL_SHORT;全\t速
+HUD/ENGINE_REV_FLANK_SHORT;紧\t急
