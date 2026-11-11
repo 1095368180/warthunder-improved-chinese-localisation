@@ -2848,9 +2848,9 @@ uk_olifant_mk_1a_shop;▄\t“号\t角”\tMk 1A
 uk_olifant_mk_1a_0;▄\t“号\t角”\tMk 1A
 uk_olifant_mk_1a_1;▄\t“号\t角”\tMk 1A
 uk_olifant_mk_1a_2;主\t战\t坦\t克
-uk_olifant_optimering_shop;▄\t“号\t角”\tMk 1B 优\t化\t型
-uk_olifant_optimering_0;▄\t“号\t角”\tMk 1B 优\t化\t改\t进\t型
-uk_olifant_optimering_1;▄\t“号\t角”\tMk 1B 优\t化\t型
+uk_olifant_optimering_shop;▄\t“号\t角”\tMk 1B 最\t佳\t构\t型
+uk_olifant_optimering_0;▄\t“号\t角”\tMk 1B 最\t佳\t构\t型
+uk_olifant_optimering_1;▄\t“号\t角”\tMk 1B 最\t佳\t构\t型
 uk_olifant_optimering_2;主\t战\t坦\t克
 uk_ratel_90_shop;▄\t“蜜\t獾”\t90 Mk 3
 uk_ratel_90_0;▄\t“蜜\t獾”\t90 Mk 3
@@ -16304,6 +16304,16 @@ us_aircraftcarrier_forrestal_ai_0;"纽\t波\t特\t纽\t斯\t造\t船
 福\t莱\t斯\t特\t级\t航\t空\t母\t舰\t“福\t莱\t斯\t特”\t号 (CVA-59)"
 us_aircraftcarrier_forrestal_ai_1;福\t莱\t斯\t特\t级\t航\t空\t母\t舰
 us_aircraftcarrier_forrestal_ai_2;航\t空\t母\t舰
+us_destroyer_halsey_shop;哈\t尔\t西
+us_destroyer_halsey_0;"英\t格\t尔\t斯\t造\t船
+阿\t利·伯\t克\t级 (Flight IIA) 驱\t逐\t舰\t“哈\t尔\t西”\t号 (DDG-97)"
+us_destroyer_halsey_1;阿\t利·伯\t克\t级\t驱\t逐\t舰
+us_destroyer_halsey_2;导\t弹\t驱\t逐\t舰
+us_frigate_oliver_hazard_perry_shop;奥\t利\t弗·哈\t扎\t德·佩\t里
+us_frigate_oliver_hazard_perry_0;"巴\t斯\t钢\t铁\t厂
+奥\t利\t弗·哈\t扎\t德·佩\t里\t级\t护\t卫\t舰\t“奥\t利\t弗·哈\t扎\t德·佩\t里”\t号 (FFG-7)"
+us_frigate_oliver_hazard_perry_1;奥\t利\t弗·哈\t扎\t德·佩\t里\t级\t护\t卫\t舰
+us_frigate_oliver_hazard_perry_2;导\t弹\t护\t卫\t舰
 uk_aircraftcarrier_ark_royal_shop;皇\t家\t方\t舟 (R09)
 uk_aircraftcarrier_ark_royal_0;"卡\t梅\t尔\t莱\t尔\t德
 大\t胆\t级\t航\t空\t母\t舰\t“皇\t家\t方\t舟”\t号 (R09)"
@@ -16325,13 +16335,25 @@ us_aircraftcarrier_gerald_ford_ai_0;"纽\t波\t特\t纽\t斯\t造\t船
 us_aircraftcarrier_gerald_ford_ai_1;杰\t拉\t尔\t德·R·福\t特\t级\t航\t空\t母\t舰
 us_aircraftcarrier_gerald_ford_ai_2;航\t空\t母\t舰
 cn_aircraftcarrier_fujian_shop;福\t建
-cn_aircraftcarrier_fujian_0;003 型\t航\t空\t母\t舰\t“福\t建”\t号 (18)
+cn_aircraftcarrier_fujian_0;"江\t南\t造\t船\t厂
+003 型\t航\t空\t母\t舰\t“福\t建”\t号 (18)"
 cn_aircraftcarrier_fujian_1;003 型\t航\t空\t母\t舰
 cn_aircraftcarrier_fujian_2;航\t空\t母\t舰
 cn_aircraftcarrier_fujian_ai_shop;福\t建
-cn_aircraftcarrier_fujian_ai_0;003 型\t航\t空\t母\t舰\t“福\t建”\t号 (18)
+cn_aircraftcarrier_fujian_ai_0;"江\t南\t造\t船\t厂
+003 型\t航\t空\t母\t舰\t“福\t建”\t号 (18)"
 cn_aircraftcarrier_fujian_ai_1;003 型\t航\t空\t母\t舰
 cn_aircraftcarrier_fujian_ai_2;航\t空\t母\t舰
+cn_destroyer_type052d_shop;昆\t明
+cn_destroyer_type052d_0;"江\t南\t造\t船\t厂
+052D 型\t驱\t逐\t舰\t“昆\t明”\t号 (172)"
+cn_destroyer_type052d_1;052D 型\t驱\t逐\t舰
+cn_destroyer_type052d_2;导\t弹\t驱\t逐\t舰
+cn_frigate_type054a_shop;舟\t山
+cn_frigate_type054a_0;"沪\t东\t中\t华
+054A 型\t护\t卫\t舰\t“舟\t山”\t号 (529)"
+cn_frigate_type054a_1;054A 型\t护\t卫\t舰
+cn_frigate_type054a_2;导\t弹\t护\t卫\t舰
 us_cruiser_new_orleans_class_shop;新\t奥\t尔\t良
 us_cruiser_new_orleans_class_0;"布\t鲁\t克\t林\t海\t军\t造\t船\t厂
 新\t奥\t尔\t良\t级\t重\t巡\t洋\t舰\t“新\t奥\t尔\t良”\t号 (CA-32, 1945)"
@@ -18388,9 +18410,14 @@ L 990 号\t机\t动\t驳\t船"
 fr_l990_monitor_1;L 990 号\t机\t动\t驳\t船
 fr_l990_monitor_2;炮\t艇
 jp_cruiser_takao_shop;高\t雄
-jp_cruiser_takao_0;高\t雄\t型\t重\t巡\t洋\t舰\t“高\t雄” (1944)
+jp_cruiser_takao_0;"横\t须\t贺\t海\t军\t工\t厂
+高\t雄\t型\t重\t巡\t洋\t舰\t“高\t雄” (1944)"
 jp_cruiser_takao_1;高\t雄\t型\t重\t巡\t洋\t舰
 jp_cruiser_takao_2;重\t巡\t洋\t舰
+uk_cruiser_danae_class_shop;达\t那\t厄
+uk_cruiser_danae_class_0;达\t那\t厄\t级\t轻\t巡\t洋\t舰\t“达\t那\t厄”\t号 (D44, 1944)
+uk_cruiser_danae_class_1;达\t那\t厄\t级\t轻\t巡\t洋\t舰
+uk_cruiser_danae_class_2;轻\t巡\t洋\t舰
 cn_cm_34_shop;CM34\t“云\t豹”
 cn_cm_34_0;CM34\t“云\t豹”\t式 30 公\t厘\t机\t炮\t装\t步\t战\t斗\t车
 cn_cm_34_1;CM34\t“云\t豹”
@@ -18506,7 +18533,7 @@ uk_fv107_scimitar_mk2_0;FV107 履\t带\t式\t战\t斗\t侦\t察\t车\t“弯\t�
 uk_fv107_scimitar_mk2_1;“弯\t刀”\tMk 2 TES
 uk_fv107_scimitar_mk2_2;轻\t型\t坦\t克
 it_fiat_6616_ub_shop;菲\t亚\t特 6616/UB-16
-it_fiat_6616_ub_0;菲\t亚\t特 6616 型\t（奥\t托 TC 20 炮\t塔）\t/UB-16-57 火t箭\t吊\t舱
+it_fiat_6616_ub_0;菲\t亚\t特 6616 型\t（奥\t托 TC 20 炮\t塔）\t/UB-16-57 火\t箭\t吊\t舱
 it_fiat_6616_ub_1;菲\t亚\t特 6616/UB-16
 it_fiat_6616_ub_2;轻\t型\t坦\t克
 uk_arjun_mk1_shop;▄\t“阿\t琼”\tMk 1

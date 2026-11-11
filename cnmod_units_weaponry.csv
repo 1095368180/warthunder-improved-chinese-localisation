@@ -695,8 +695,12 @@ weapons/us_blu27b;750 磅 BLU-27/B 燃\t烧\t弹
 weapons/us_blu27b/short;BLU-27/B
 weapons/us_blu_1;750 磅 BLU-1/B 燃\t烧\t弹
 weapons/us_blu_1/short;BLU-1/B
+weapons/us_cbu_58b;CBU-58/B 集\t束\t炸\t弹
+weapons/us_cbu_58b/short;CBU-58/B
 weapons/us_cbu_87b;CBU-87/B 组\t合\t效\t应\t弹\t药
 weapons/us_cbu_87b/short;CBU-87/B
+weapons/uk_600lb_bl755;BL755 集\t束\t炸\t弹
+weapons/uk_600lb_bl755/short;BL755
 weapons/fr_blg66_belouga;BLG 66 AC 集\t束\t炸\t弹
 weapons/fr_blg66_belouga/short;BLG 66 AC
 weapons/br_binc_300;400 千\t克 BINC-300 燃\t烧\t弹
@@ -806,6 +810,10 @@ weapons/su_ofab250sh;250 千\t克 OFAB-250Sh 伞\t式\t减\t速\t高\t阻\t炸\t
 weapons/su_ofab250sh/short;OFAB-250Sh
 weapons/su_fab500sh;500 千\t克 FAB-500Sh 伞\t式\t减\t速\t高\t阻\t炸\t弹
 weapons/su_fab500sh/short;FAB-500Sh
+weapons/su_rbk_500_ao_2_5rtm;RBK-500 集\t束\t炸\t弹
+weapons/su_rbk_500_ao_2_5rtm/short;RBK-500
+weapons/su_rbk_500_ptab;RBK-500-PTAB 集\t束\t炸\t弹
+weapons/su_rbk_500_ptab/short;RBK-500-PTAB
 weapons/su_kab_50tv;KAB-50TV 制\t导\t炸\t弹
 weapons/su_kab_50tv/short;KAB-50TV
 weapons/su_kab_50s;KAB-50S 制\t导\t炸\t弹
@@ -1226,6 +1234,8 @@ weapons/an_aaq_25_lantirn;夜\t间\t低\t空\t导\t航\t和\t红\t外\t瞄准（
 weapons/an_aaq_25_lantirn/short;LANTIRN
 weapons/ntps_mercury;“水\t星”\t瞄\t准\t吊\t舱
 weapons/ntps_mercury/short;“水\t星”
+weapons/su_hod_pod;“进\t程”\t瞄\t准\t吊\t舱
+weapons/su_hod_pod/short;“水\t星”
 weapons/us_agm_12b_station;瞄\t准\t吊\t舱
 weapons/us_agm_12b_station/short;瞄\t准\t吊\t舱
 weapons/us_lana_flir_pod;低\t空\t夜\t间\t攻\t击\t前\t视\t红\t外\t导\t航\t（LANA）\t吊\t舱
@@ -2182,6 +2192,8 @@ weapons/150mm_sfh_18_user_cannon;150 毫\t米 sFH 18 榴\t弹\t炮
 150mm_gr_19_be_sap;Gr.19 Be
 150mm_pzgr_39_ts;Tsp.PzGr.39
 weapons/105mm_GT_8_user_cannon;105 毫\t米 GT 8 坦\t克\t炮
+105mm_fs_mk1;FS Mk 1
+105mm_fs_mk3;FS Mk 3
 weapons/105mm_GT_7_user_cannon;105 毫\t米 GT 7 坦\t克\t炮
 weapons/105mm_GT3_user_cannon;105 毫\t米 GT 3 坦\t克\t炮
 weapons/105mm_GT3_TTD_user_cannon;105 毫\t米 GT 3 坦\t克\t炮
@@ -2306,6 +2318,7 @@ weapons/75mm_M6_user_cannon;75 毫\t米 M6 坦\t克\t炮
 weapons/75mm_m3_user_cannon;75 毫\t米 M3 坦\t克\t炮
 weapons/75mm_m3_open_turret_user_cannon;75 毫\t米 M3 坦\t克\t炮
 weapons/30mm_ZPZ02_user_cannon;30 毫\t米 ZPZ02 式\t机\t关\t炮
+weapons/30mm_zpt_02_zbd_04_user_cannon;30 毫\t米 ZPZ02 式\t机\t关\t炮
 weapons/30mm_zpt_99_user_cannon;30 毫\t米 ZPT99 式\t机\t关\t炮
 30mm_zpz02_hei;DTY02
 30mm_zpz02_apds;DTC04
@@ -2441,6 +2454,7 @@ rocket/warhead/aphe;半\t穿\t甲\t-\t高\t爆
 rocket/warhead/ap;穿\t甲
 rocket/warhead/smoke;烟\t雾
 rocket/warhead/multidart;箭\t形\t弹
+rocket/warhead/cluster;集\t束
 missile/seekerRange;锁\t定\t距\t离
 missile/seekerRange/rearAspect;尾\t后\t攻\t击\t锁\t定\t距\t离
 missile/seekerRange/allAspect;全\t向\t攻\t击\t锁\t定\t距\t离
@@ -2470,6 +2484,12 @@ missile/guidance/ir+IOG+DL;红\t外 + IOG + 数\t据\t链
 missile/guidance/ir+IOG;红\t外 + IOG
 missile/guidance/tv+IOG;电\t视 + IOG
 missile/guidance/tv+IOG+GNSS;电\t视 + IOG + 全\t球\t卫\t星\t导\t航\t系\t统
+missile/guidance/ir+MITL;红\t外 + 人\t在\t回\t路
+missile/guidance/ir+IOG+MITL;红\t外 + IOG + 人\t在\t回\t路
+missile/guidance/ir+IOG+GNSS+MITL;红\t外 + IOG + 全\t球\t卫\t星\t导\t航\t系\t统 + 人\t在\t回\t路
+missile/guidance/tv+MITL;电\t视 + 人\t在\t回\t路
+missile/guidance/tv+IOG+MITL;电\t视 + IOG + 人\t在\t回\t路
+missile/guidance/tv+IOG+GNSS+MITL;电\t视 + IOG + 全\t球\t卫\t星\t导\t航\t系\t统 + 人\t在\t回\t路
 missile/guidance/sns;全\t球\t卫\t星\t导\t航\t系\t统
 missile/guidance/mclos;人\t工\t指\t令\t瞄\t准\t线\t（MCLOS）
 missile/guidance/saclos;半\t自\t动\t指\t令\t瞄\t准\t线\t（SACLOS）
@@ -3569,6 +3589,8 @@ weapons/su_ofab250/short;OFAB-250
 weapons/cn_gp_250_3/short;250-3
 weapons/cn_gp_250_3;250 千\t克 250-3 型\t炸\t弹
 weapons/cn_gp_250_3_default/short;250-3
+weapons/cn_250_3_cluster/short;250-3 型\t集\t束\t炸\t弹
+weapons/cn_250_3_cluster;250-3
 weapons/cn_gp_250_3_default;250 千\t克 250-3 型\t炸\t弹
 weapons/cn_gp_500_3/short;500-3
 weapons/cn_gp_500_3;500 千\t克 500-3 型\t炸\t弹
@@ -3700,6 +3722,8 @@ weapons/sws_oerlikon_oe82;Flz Rak Oe HPz G 火\t箭\t弹
 weapons/sws_oerlikon_oe82/short;Flz Rak Oe HPz G
 weapons/sws_flz_lwf_63_80;Flz Lwf 63/80 空\t对\t空\t导\t弹
 weapons/sws_flz_lwf_63_80/short;Flz Lwf 63/80
+weapons/sws_flz_lwf_63_90;Flz Lwf 63/90 空\t对\t空\t导\t弹
+weapons/sws_flz_lwf_63_90/short;Flz Lwf 63/90
 weapons/sws_flz_lwf_63_75;Flz Lwf 63/75 空\t对\t空\t导\t弹
 weapons/sws_flz_lwf_63_75/short;Flz Lwf 63/75
 weapons/sws_flz_lwf_63;Flz Lwf 63 空\t对\t空\t导\t弹
@@ -3851,8 +3875,10 @@ weapons/127mm_MIM_72G_launcher_user_cannon/short;MIM-72
 weapons/170mm_57E6_rocket_launcher;95Ya6 地\t对\t空\t导\t弹
 weapons/170mm_57E6_rocket_launcher/short;95Ya6
 weapons/170mm_57E6/short;95Ya6
+weapons/170mm_tkb_1055_container;19Ya6 地\t对\t空\t导\t弹
+weapons/170mm_tkb_1055_container/short;19Ya6
 weapons/170mm_57E6M_launcher_user_cannon;95Ya6M 地\t对\t空\t导\t弹
-weapons/170mm_57E6M_launcher_user_cannon/short;95Ya6M 地\t对\t空\t导\t弹
+weapons/170mm_57E6M_launcher_user_cannon/short;95Ya6
 170mm_zur_95ya6;95Ya6
 170mm_57e6m;95Ya6M
 170mm_tkb_1055;19Ya6
@@ -4385,8 +4411,10 @@ weapons/cn_fire_snake_70a;FS70A\t（火\t蛇 70A）\t制\t导\t火\t箭\t弹
 weapons/cn_fire_snake_70a/short;FS70A
 weapons/il_gatr;先\t进\t战\t术\t制\t导\t火\t箭\t弹\t（GATR）
 weapons/il_gatr/short;GATR
-weapons/spike_er;“长\t钉”\t-ER 反\t坦\t克\t导\t弹
-weapons/spike_er/short;“长\t钉”\t-ER
+weapons/spike_er;“长\t钉”\t-ER (MITL) 反\t坦\t克\t导\t弹
+weapons/spike_er/short;“长\t钉”\t-ER (MITL)
+weapons/spike_er_wo_mitl;“长\t钉”\t-ER 反\t坦\t克\t导\t弹
+weapons/spike_er_wo_mitl/short;“长\t钉”\t-ER
 weapons/spike_er_default;“长\t钉”\t-ER 反\t坦\t克\t导\t弹
 weapons/spike_er_default/short;“长\t钉”\t-ER
 weapons/spike_nlos_targeting_pod;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
@@ -4395,8 +4423,10 @@ weapons/spike_nlos_saraph_targeting_pod;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
 weapons/spike_nlos_saraph_targeting_pod/short;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
 weapons/spike_nlos_targeting_pod_aw_159;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
 weapons/spike_nlos_targeting_pod_aw_159/short;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
-weapons/spike_nlos;“长\t钉”\t-NLOS 反\t坦\t克\t导\t弹
-weapons/spike_nlos/short;“长\t钉”\t-NLOS
+weapons/spike_nlos;“长\t钉”\t-NLOS (MITL) 反\t坦\t克\t导\t弹
+weapons/spike_nlos/short;“长\t钉”\t-NLOS (MITL)
+weapons/spike_nlos_wo_mitl;“长\t钉”\t-NLOS 反\t坦\t克\t导\t弹
+weapons/spike_nlos_wo_mitl/short;“长\t钉”\t-NLOS
 weapons/spike_nlos_default;“长\t钉”\t-NLOS 反\t坦\t克\t导\t弹
 weapons/spike_nlos_default/short;“长\t钉”\t-NLOS
 weapons/us_ah_64_ircm;CIRCM 吊\t舱
@@ -5091,10 +5121,12 @@ weapons/cn_akd_9_default;AKD-9\t（蓝\t箭\t-9）\t空\t对\t地\t导\t弹
 weapons/cn_akd_9_default/short;AKD-9\t（蓝\t箭\t-9）
 weapons/cn_akd_10;AKD-10\t（蓝\t箭\t-7）\t空\t对\t地\t导\t弹
 weapons/cn_akd_10/short;AKD-10\t（蓝\t箭\t-7）
-weapons/cn_cm_502kg_he;CM-502KG 空\t对\t地\t导\t弹
-weapons/cn_cm_502kg_he/short;CM-502KG
-weapons/cn_cm_502kg_he_rail;CM-502KG 空\t对\t地\t导\t弹
-weapons/cn_cm_502kg_he_rail/short;CM-502KG
+weapons/cn_cm_502kg_he;CM-502KG (MITL) 空\t对\t地\t导\t弹
+weapons/cn_cm_502kg_he/short;CM-502KG (MITL)
+weapons/cn_cm_502kg_he_wo_mitl;CM-502KG 空\t对\t地\t导\t弹
+weapons/cn_cm_502kg_he_wo_mitl/short;CM-502KG
+weapons/cn_cm_502kg_he_rail;CM-502KG (MITL) 空\t对\t地\t导\t弹
+weapons/cn_cm_502kg_he_rail/short;CM-502KG (MITL)
 weapons/ch_kd_88_missile_ir;AKD-88A\t（空\t地\t-88A）\t空\t对\t地\t导\t弹
 weapons/ch_kd_88_missile_ir/short;AKD-88A
 weapons/ch_kd_88_missile_tv;AKD-88\t（空\t地\t-88）\t空\t对\t地\t导\t弹
@@ -6456,6 +6488,7 @@ weapons/150mm_60_skc_25_naval_user_cannon;150 毫\t米 SK C/25 舰\t炮
 150mm_spgr_l_4_5_ztz_he;SprGr. L/4.5 Zt.Z
 150mm_spgr_l_4_6_kz_he;SprGr. L/4.5 Kz (m.Hb)
 weapons/152mm_6inch_53_mk_12_naval_user_cannon;152 毫\t米 6 英\t寸\t/53 Mark 12 舰\t炮
+weapons/152mm_6inch_47_mk_17_naval_user_cannon;152 毫\t米 6 英\t寸\t/47 Mark 17 舰\t炮
 weapons/152mm_6inch_47_mk_16_naval_user_cannon;152 毫\t米 6 英\t寸\t/47 Mark 16 舰\t炮
 weapons/152mm_6inch_47_mk_16_dp_naval_user_cannon;152 毫\t米 6 英\t寸\t/47 DP Mark 16 舰\t炮
 152mm_sc_mk27_ap;Mark 27 特\t种\t常\t规\t弹
@@ -6463,6 +6496,7 @@ weapons/152mm_6inch_47_mk_16_dp_naval_user_cannon;152 毫\t米 6 英\t寸\t/47 D
 152mm_hc_mk_34_bf;Mark 34 高\t爆\t弹\t（弹\t底\t引\t信）
 152mm_hc_mk_34_vt;Mark 34 近\t炸\t引\t信\t高\t爆\t弹
 152mm_47_ap_mk35;Mark 35 穿\t甲\t弹
+152mm_47_mk_28_common;Mark 28 通\t常\t弹
 weapons/28mm_75_mk_1_chicago_piano_naval_user_cannon;28 毫\t米 1.1 英\t寸\t/75 Mark 1 防\t空\t炮
 weapons/28mm_75_mk_1_chicago_piano_naval_user_cannon/short;1.1 英\t寸\t/75 Mark 1
 25mm_mk1_sd;Mark 1 曳\t光\t榴\t弹\t（自\t爆）
@@ -6929,8 +6963,14 @@ weapons/uk_450mm_18in_rgf_mark6_hbh_torpedo/short;Mk VI**
 weapons/127mm_54_mk42_naval_user_cannon;127 毫\t米 5 英\t寸\t/54 Mark 42 高\t平\t两\t用\t炮
 weapons/127mm_54_mk16_single_naval_user_cannon;127 毫\t米 5 英\t寸\t/54 Mark 16 高\t平\t两\t用\t炮\t（Mark 39 炮\t座）
 weapons/127mm_54_mk45_naval_user_cannon;127 毫\t米 5 英\t寸\t/54 Mark 19 高\t平\t两\t用\t炮\t（Mark 45 炮\t座）
+weapons/127mm_62_mk45_mod4_naval_user_cannon;127 毫\t米 5 英\t寸\t/62 Mark 36 高\t平\t两\t用\t炮\t（Mark 45 Mod 4 炮\t座）
 127mm_54_vt_hc_mk41;Mark 41 近\t炸\t引\t信\t高\t爆\t弹
 127mm_54_vt_hc_mk68;Mark 68 近\t炸\t引\t信\t高\t爆\t弹
+weapons/130mm_70_hpj45_naval_user_cannon;130 毫\t米 H/PJ-45 舰\t炮
+130mm_cn_he_vt;杀\t爆\t弹
+weapons/30mm_hpj11_naval_user_cannon;30 毫\t米 H/PJ-11 近\t程\t武\t器\t系\t统
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon;20 毫\t米 Mark 15\t“密\t集\t阵”\tBlock 1B 近\t程\t武\t器\t系\t统
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon/short;“密\t集\t阵”
 weapons/283mm_45_skl_45_naval_user_cannon;283 毫\t米 SK L/45 舰\t炮
 283mm_spgr_l_3_6_he_bdz;SprGr. L/3.6 Bd.Z
 283mm_psgr_l_3_2;PsGr. L/3.2
@@ -7105,8 +7145,10 @@ weapons/su_kh_38mle;Kh-38MLE 导\t弹
 weapons/su_kh_38mle/short;Kh-38MLE
 weapons/su_kh_38mte;Kh-38MTE 导\t弹
 weapons/su_kh_38mte/short;Kh-38MTE
-weapons/su_lmur;Kh-39 LMUR 导\t弹
-weapons/su_lmur/short;Kh-39 LMUR
+weapons/su_lmur;Kh-39 LMUR (MITL) 导\t弹
+weapons/su_lmur/short;Kh-39 LMUR (MITL)
+weapons/su_lmur_wo_mitl;Kh-39 LMUR 导\t弹
+weapons/su_lmur_wo_mitl/short;Kh-39 LMUR
 weapons/is_delilah;“德\t立\t拉”\t导\t弹
 weapons/is_delilah/short;“德\t立\t拉”
 weapons/is_delilah_ir;“德\t立\t拉”\t导\t弹\t（红\t外\t引\t导\t头）
@@ -7248,7 +7290,7 @@ weapons/406mm_45_bl_mk2_naval_user_cannon;406 毫\t米 16 英\t寸 BL Mk II 舰\
 weapons/178mm_up_mk1_naval_rocket_launcher;178 毫\t米 7 英\t寸\t非\t旋\t转\t抛\t射\t物\t发\t射\t器 Mk I
 weapons/178mm_up_mk1_naval_rocket_launcher/short;178 毫\t米 7 英\t寸 UP Mk I 火\t箭\t炮
 up_mk1;UP Mk I 火\t箭
-weapons/rocket_rim_24_a_naval_rocket_launcher;RIM-24A\t“鞑\t靼\t人”\t地\t对\t空\t导\t弹
+weapons/rocket_rim_24_a_naval_rocket_launcher;RIM-24A\t“鞑\t靼\t人”\t舰\t对\t空\t导\t弹
 weapons/rocket_rim_24_a_naval_rocket_launcher/short;RIM-24A\t“鞑\t靼\t人”
 rim_24;RIM-24A\t“鞑\t靼\t人”
 rim_24b;RIM-24B\t“鞑\t靼\t人”
@@ -7257,6 +7299,43 @@ weapons/rocket_mk11_naval_rocket_launcher;Mark 11 制\t导\t导\t弹\t发\t射\t
 weapons/rocket_mk11_naval_rocket_launcher/short;Mark 11 GMLS
 weapons/rocket_mk13_naval_rocket_launcher;Mark 13 制\t导\t导\t弹\t发\t射\t系\t统
 weapons/rocket_mk13_naval_rocket_launcher/short;Mark 13 GMLS
+weapons/rocket_hhq10_naval_rocket_launcher;HHQ-10\t（海\t红\t旗-10）\t垂\t直\t发\t射\t系\t统
+weapons/rocket_hhq10_naval_rocket_launcher/short;HHQ-10\t（海\t红\t旗-10）
+cn_hhq_10;HHQ-10\t（海\t红\t旗-10）
+weapons/cn_hhq_10;HHQ-10\t（海\t红\t旗-10）\t舰\t对\t空\t导\t弹
+weapons/cn_hhq_10/short;HHQ-10
+weapons/rocket_hhq9_vls_naval_rocket_launcher;HHQ-9\t（海\t红\t旗-9）\t垂\t直\t发\t射\t系\t统
+weapons/rocket_hhq9_vls_naval_rocket_launcher/short;HHQ-9\t（海\t红\t旗-9）
+cn_hhq_9;HHQ-9\t（海\t红\t旗-9）
+weapons/cn_hhq_9;HHQ-9\t（海\t红\t旗-9）\t舰\t对\t空\t导\t弹
+weapons/cn_hhq_9/short;HHQ-9
+weapons/rocket_hhq16_vls_naval_rocket_launcher;HHQ-16\t（海\t红\t旗-16）\t垂\t直\t发\t射\t系\t统
+weapons/rocket_hhq16_vls_naval_rocket_launcher/short;HHQ-16\t（海\t红\t旗-16）
+cn_hhq_16;HHQ-16\t（海\t红\t旗-16）
+weapons/cn_hhq_16;HHQ-16\t（海\t红\t旗-16）\t舰\t对\t空\t导\t弹
+weapons/cn_hhq_16/short;HHQ-16
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher;Mark 41 垂\t直\t发\t射\t系\t统
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher/short;Mark 41 VLS
+us_rim_174_sm_6;RIM-174
+weapons/us_rim_174_sm_6;RIM-174\t“标\t准”\t增\t程\t型\t主\t动\t导\t弹
+weapons/us_rim_174_sm_6/short;RIM-174\t“标\t准”\t-6
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher;Mark 29 制\t导\t导\t弹\t发\t射\t系\t统
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher/short;Mark 29 GMLS
+us_rim_162_essm_block2;RIM-162
+weapons/us_rim_162_essm_block2;RIM-162 改\t进\t型\t“海\t麻\t雀”\t导\t弹
+weapons/us_rim_162_essm_block2/short;RIM-162
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher;Mark 41 垂\t直\t发\t射\t系\t统
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher/short;Mark 41 VLS
+us_rim_66m_sm_2;RIM-66M\t“标\t准”\t-2
+weapons/us_rim_66m_sm_2;RIM-66M\t“标\t准”\t-2MR Block IIIB 舰\t对\t空\t导\t弹
+weapons/us_rim_66m_sm_2/short;RIM-66M\t“标\t准”\t-2
+weapons/rocket_rim116c_ram_naval_rocket_launcher;Mark 49 制\t导\t导\t弹\t发\t射\t系\t统
+weapons/rocket_rim116c_ram_naval_rocket_launcher/short;Mark 49 GMLS
+us_rim_116c;RIM-116C
+weapons/us_rim_116c;RIM-116C 滚\t体\t导\t弹
+weapons/us_rim_116c/short;RIM-116C
+weapons/us_rim_116b;RIM-116B 滚\t体\t导\t弹
+weapons/us_rim_116b/short;RIM-116B
 weapons/52mm_55_skl55_naval_user_cannon;52 毫\t米 SK L/55 舰\t炮
 52mm_sprgr_he;SprGr.
 weapons/bomb_ussr_rku36u;RKU-36U 反\t潜\t火\t箭\t深\t弹
