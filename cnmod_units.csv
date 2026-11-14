@@ -1,4 +1,4 @@
-wi;<Chinese>
+<ID|readonly|noverify>;<Chinese>
 ships/uss_cv_immortal_0;航\t空\t母\t舰
 ships/uss_cv_immortal_1;航\t空\t母\t舰
 ships/uss_cv_immortal_2;航\t空\t母\t舰
@@ -1464,6 +1464,8 @@ shop/group/uk_chieftain_mk_3_5_group;“酋\t长”\tMk 3/5
 shop/group/uk_chieftain_mk_10_900_group;“酋\t长”\tMk 10/900
 shop/group/us_m48_m60_group;M48/M60
 shop/group/fr_hotchkiss_fcm_group;AMC/H 35/FCM
+shop/group/fr_dca_prtl_group;AMX 30 防\t空\t型\t/PRTL
+shop/group/cn_cm_zbd_group;CM34/ZBD04
 us_m47_patton_II_shop;M47\t“巴\t顿”
 us_m47_patton_II_0;90 毫\t米\t火\t炮\t坦\t克 M47
 us_m47_patton_II_1;M47
@@ -12880,16 +12882,16 @@ fa_18a_0;"麦\t克\t唐\t纳\t-\t道\t格\t拉\t斯
 F/A-18A-18-MC“大\t黄\t蜂”"
 fa_18a_1;F/A-18A
 fa_18a_2;F/A-18A
-fa_18a_raaf_shop;▄\tF/A-18A\t“大\t黄\t蜂”
+fa_18a_raaf_shop;▄\tAF/A-18A\t“大\t黄\t蜂”
 fa_18a_raaf_0;"麦\t克\t唐\t纳\t-\t道\t格\t拉\t斯
-▄\tF/A-18A\t“大\t黄\t蜂”"
-fa_18a_raaf_1;▄\tF/A-18A
-fa_18a_raaf_2;▄\tF/A-18A
-fa_18a_hug_2_raaf_shop;▄\tF/A-18A\t“大\t黄\t蜂”\t(HUG 2.4)
+▄\tAF/A-18A\t“大\t黄\t蜂”"
+fa_18a_raaf_1;▄\tAF/A-18A
+fa_18a_raaf_2;▄\tAF/A-18A
+fa_18a_hug_2_raaf_shop;▄\tAF/A-18A\t“大\t黄\t蜂”\t(HUG 2.4)
 fa_18a_hug_2_raaf_0;"麦\t克\t唐\t纳\t-\t道\t格\t拉\t斯
-▄\tF/A-18A\t“大\t黄\t蜂”\t(HUG 2.4)"
-fa_18a_hug_2_raaf_1;▄\tF/A-18A
-fa_18a_hug_2_raaf_2;▄\tF/A-18A
+▄\tAF/A-18A\t“大\t黄\t蜂”\t(HUG 2.4)"
+fa_18a_hug_2_raaf_1;▄\tAF/A-18A
+fa_18a_hug_2_raaf_2;▄\tAF/A-18A
 fa_18c_early_shop;F/A-18C-30“大\t黄\t蜂”
 fa_18c_early_0;"麦\t克\t唐\t纳\t-\t道\t格\t拉\t斯
 F/A-18C-30-MC“大\t黄\t蜂”"
@@ -14741,9 +14743,9 @@ sw_pbil_m40_shop;m/40 装\t甲\t车
 sw_pbil_m40_0;m/40 装\t甲\t车
 sw_pbil_m40_1;m/40 装\t甲\t车
 sw_pbil_m40_2;轻\t型\t坦\t克
-sw_pv_m39_shop;M/39 装\t甲\t车
-sw_pv_m39_0;M/39 装\t甲\t车
-sw_pv_m39_1;M/39 装\t甲\t车
+sw_pv_m39_shop;m/39 装\t甲\t车
+sw_pv_m39_0;m/39 装\t甲\t车
+sw_pv_m39_1;m/39 装\t甲\t车
 sw_pv_m39_2;轻\t型\t坦\t克
 sw_k9_vidar_shop;VIDAR
 sw_k9_vidar_0;多\t用\t途\t间\t射\t火\t炮
@@ -16304,6 +16306,16 @@ us_aircraftcarrier_forrestal_ai_0;"纽\t波\t特\t纽\t斯\t造\t船
 福\t莱\t斯\t特\t级\t航\t空\t母\t舰\t“福\t莱\t斯\t特”\t号 (CVA-59)"
 us_aircraftcarrier_forrestal_ai_1;福\t莱\t斯\t特\t级\t航\t空\t母\t舰
 us_aircraftcarrier_forrestal_ai_2;航\t空\t母\t舰
+us_aircraftcarrier_nimitz_shop;尼\t米\t兹
+us_aircraftcarrier_nimitz_0;"纽\t波\t特\t纽\t斯\t造\t船
+尼\t米\t兹\t级\t航\t空\t母\t舰\t“尼\t米\t兹”\t号 (CVN-68)"
+us_aircraftcarrier_nimitz_1;尼\t米\t兹\t级\t航\t空\t母\t舰
+us_aircraftcarrier_nimitz_2;航\t空\t母\t舰
+us_aircraftcarrier_nimitz_ai_shop;尼\t米\t兹
+us_aircraftcarrier_nimitz_ai_0;"纽\t波\t特\t纽\t斯\t造\t船
+尼\t米\t兹\t级\t航\t空\t母\t舰\t“尼\t米\t兹”\t号 (CVN-68)"
+us_aircraftcarrier_nimitz_ai_1;尼\t米\t兹\t级\t航\t空\t母\t舰
+us_aircraftcarrier_nimitz_ai_2;航\t空\t母\t舰
 us_destroyer_halsey_shop;哈\t尔\t西
 us_destroyer_halsey_0;"英\t格\t尔\t斯\t造\t船
 阿\t利·伯\t克\t级 (Flight IIA) 驱\t逐\t舰\t“哈\t尔\t西”\t号 (DDG-97)"

@@ -175,11 +175,11 @@ weapons/gunMAC34_turret/short;MAC Mle 1934
 weapons/gunMAC34T_turret;7.5 毫\t米 MAC Mle 1934T 机\t枪
 weapons/gunMAC34T_turret/short;MAC Mle 1934T
 weapons/gunDarne23;7.5 毫\t米\t达\t尔\t内 Mle 1923 机\t枪
-;达\t尔\t内 Mle 1923
+weapons/gunDarne23/short;达\t尔\t内 Mle 1923
 weapons/gunDarne23_turret;7.5 毫\t米\t达\t尔\t内 Mle 1923 机\t枪
-;达\t尔\t内 Mle 1923
+weapons/gunDarne23_turret/short;达\t尔\t内 Mle 1923
 weapons/cannonHispano_hs9;20 毫\t米\t伊\t斯\t帕\t诺\t-\t絮\t扎 HS.9 机\t炮
-;伊\t斯\t帕\t诺\t-\t絮\t扎 HS.9
+weapons/cannonHispano_hs9/short;伊\t斯\t帕\t诺\t-\t絮\t扎 HS.9
 weapons/cannonHispano_hs825;30 毫\t米\t伊\t斯\t帕\t诺\t-\t絮\t扎 HS.825 机\t炮
 weapons/cannonHispano_hs825/short;伊\t斯\t帕\t诺\t-\t絮\t扎 HS.825
 weapons/cannonHispano_hs825_L_53;30 毫\t米\t伊\t斯\t帕\t诺\t-\t絮\t扎 HS.825 机\t炮
@@ -379,7 +379,7 @@ weapons/cannonMGFF/short;MG FF
 weapons/cannonMGFF_turret;20 毫\t米 MG FF/M 机\t炮
 weapons/cannonMGFF_turret/short;MG FF/M
 weapons/cannonMGFFM;20 毫\t米 MG FF/M 机\t炮
-weapons/cannonMGFF_turret/short;MG FF/M
+weapons/cannonMGFFM/short;MG FF/M
 weapons/cannonMK103;30 毫\t米 MK 103 机\t炮
 weapons/cannonMK103/short;MG 103
 weapons/cannonMK101;30 毫\t米 MK 101 机\t炮
@@ -1814,6 +1814,10 @@ weapons/us_300gal_aero_1d_drop_tank_left;可\t抛\t副\t油\t箱\t（300 加\t�
 weapons/us_300gal_aero_1d_drop_tank_left/short;副\t油\t箱
 weapons/us_300gal_aero_1d_drop_tank_right;可\t抛\t副\t油\t箱\t（300 加\t仑）
 weapons/us_300gal_aero_1d_drop_tank_right/short;副\t油\t箱
+weapons/us_300gal_a_7k_aero_1d_drop_tank_right;可\t抛\t副\t油\t箱\t（300 加\t仑）
+weapons/us_300gal_a_7k_aero_1d_drop_tank_right/short;副\t油\t箱
+weapons/us_300gal_a_7k_aero_1d_drop_tank_left;可\t抛\t副\t油\t箱\t（300 加\t仑）
+weapons/us_300gal_a_7k_aero_1d_drop_tank_left/short;副\t油\t箱
 weapons/uk_130gal_hawk_drop_tank_1;可\t抛\t副\t油\t箱\t（130 加\t仑）
 weapons/uk_130gal_hawk_drop_tank_1/short;副\t油\t箱
 weapons/uk_130gal_hawk_drop_tank_2;可\t抛\t副\t油\t箱\t（130 加\t仑）
@@ -3399,7 +3403,7 @@ explosiveType/napalm;凝\t固\t汽\t油\t-B
 explosiveType/napalm_gel;凝\t固\t汽\t油
 explosiveType/sks;SKS
 explosiveType/fp_02;Fp.02\t（TNT）
-explosiveType/octogel;奥\t克\t托\t儿\t炸\t药\t（奥\t克\t托\t今 加 TNT）
+explosiveType/oktogel;奥\t克\t托\t儿\t炸\t药\t（奥\t克\t托\t今 加 TNT）
 explosiveType/aerea_64057;Aerea 64057
 explosiveType/pentolite;彭\t托\t利\t特\t炸\t药\t（太\t安 加 TNT）
 explosiveType/trinalite;Trinalite\t（TNT 加 硝\t酸\t铵）
@@ -3622,6 +3626,8 @@ weapons/us_100lb_anm30/short;100 磅
 weapons/us_100lbs/short;100 磅
 weapons/us_250lb_anm57/short;250 磅
 weapons/us_500lb_anm64a1/short;500 磅
+weapons/us_500lb_anm64a1_default/short;500 磅
+weapons/us_500lb_anm64a1_rod/short;500 磅
 weapons/us_500lbs/short;500 磅
 weapons/us_1000lb_anm65_cone/short;1,000 磅
 weapons/us_1000lb_anm65a1/short;1,000 磅
@@ -4205,7 +4211,7 @@ weapons/cannonDEFA551/short;DEFA 551
 weapons/cannonDEFA552;30 毫\t米 DEFA 552 机\t炮
 weapons/cannonDEFA552/short;DEFA 552
 weapons/cannonDEFA552A;30 毫\t米 DEFA 552A 机\t炮
-weapons/cannonDEFA552/short;DEFA 552A
+weapons/cannonDEFA552A/short;DEFA 552A
 weapons/cannonDEFA552A_switzerland;30 毫\t米 Flz Kan 65 机\t炮
 weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
 weapons/cannonDEFA553;30 毫\t米 DEFA 553 机\t炮
@@ -4411,7 +4417,7 @@ weapons/cn_fire_snake_70a;FS70A\t（火\t蛇 70A）\t制\t导\t火\t箭\t弹
 weapons/cn_fire_snake_70a/short;FS70A
 weapons/il_gatr;先\t进\t战\t术\t制\t导\t火\t箭\t弹\t（GATR）
 weapons/il_gatr/short;GATR
-weapons/spike_er;“长\t钉”\t-ER (MITL) 反\t坦\t克\t导\t弹
+weapons/spike_er;“长\t钉”\t-ER 反\t坦\t克\t导\t弹\t（人\t在\t回\t路）
 weapons/spike_er/short;“长\t钉”\t-ER (MITL)
 weapons/spike_er_wo_mitl;“长\t钉”\t-ER 反\t坦\t克\t导\t弹
 weapons/spike_er_wo_mitl/short;“长\t钉”\t-ER
@@ -4423,7 +4429,7 @@ weapons/spike_nlos_saraph_targeting_pod;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
 weapons/spike_nlos_saraph_targeting_pod/short;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
 weapons/spike_nlos_targeting_pod_aw_159;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
 weapons/spike_nlos_targeting_pod_aw_159/short;“长\t钉”\t-NLOS 瞄\t准\t吊\t舱
-weapons/spike_nlos;“长\t钉”\t-NLOS (MITL) 反\t坦\t克\t导\t弹
+weapons/spike_nlos;“长\t钉”\t-NLOS 反\t坦\t克\t导\t弹\t（人\t在\t回\t路）
 weapons/spike_nlos/short;“长\t钉”\t-NLOS (MITL)
 weapons/spike_nlos_wo_mitl;“长\t钉”\t-NLOS 反\t坦\t克\t导\t弹
 weapons/spike_nlos_wo_mitl/short;“长\t钉”\t-NLOS
@@ -4930,7 +4936,7 @@ weapons/su_9M336/short;9M336\t“柳\t树”
 weapons/atam_mistral;“西\t北\t风”\t空\t对\t空\t导\t弹
 weapons/atam_mistral/short;“西\t北\t风”
 weapons/atam_mistral_sam;“西\t北\t风”\t地\t对\t空\t导\t弹
-weapons/atam_mistral_sam/short;“西\t北\t风”
+atam_mistral_sam;“西\t北\t风”
 weapons/atam_mistral_a129;“西\t北\t风”\t空\t对\t空\t导\t弹
 weapons/atam_mistral_a129/short;“西\t北\t风”
 weapons/fr_aa20;AA.20 空\t对\t空\t导\t弹
@@ -5121,11 +5127,11 @@ weapons/cn_akd_9_default;AKD-9\t（蓝\t箭\t-9）\t空\t对\t地\t导\t弹
 weapons/cn_akd_9_default/short;AKD-9\t（蓝\t箭\t-9）
 weapons/cn_akd_10;AKD-10\t（蓝\t箭\t-7）\t空\t对\t地\t导\t弹
 weapons/cn_akd_10/short;AKD-10\t（蓝\t箭\t-7）
-weapons/cn_cm_502kg_he;CM-502KG (MITL) 空\t对\t地\t导\t弹
+weapons/cn_cm_502kg_he;CM-502KG 空\t对\t地\t导\t弹\t（人\t在\t回\t路）
 weapons/cn_cm_502kg_he/short;CM-502KG (MITL)
 weapons/cn_cm_502kg_he_wo_mitl;CM-502KG 空\t对\t地\t导\t弹
 weapons/cn_cm_502kg_he_wo_mitl/short;CM-502KG
-weapons/cn_cm_502kg_he_rail;CM-502KG (MITL) 空\t对\t地\t导\t弹
+weapons/cn_cm_502kg_he_rail;CM-502KG 空\t对\t地\t导\t弹\t（人\t在\t回\t路）
 weapons/cn_cm_502kg_he_rail/short;CM-502KG (MITL)
 weapons/ch_kd_88_missile_ir;AKD-88A\t（空\t地\t-88A）\t空\t对\t地\t导\t弹
 weapons/ch_kd_88_missile_ir/short;AKD-88A
@@ -5156,7 +5162,7 @@ weapons/cannonAkan_m55_underwing/short;m/55
 weapons/cannonAkan_m75;30 毫\t米 m/75 机\t炮
 weapons/cannonAkan_m75/short;m/75
 weapons/cannonAkan_m85;27 毫\t米 m/85 机\t炮
-weapons/cannonAkan_m85/short;M/85
+weapons/cannonAkan_m85/short;m/85
 weapons/gunKsp_m22;8 毫\t米 m/22 机\t枪
 weapons/gunKsp_m22/short;m/22
 weapons/swd_rb24;Rb 24 空\t对\t空\t导\t弹
@@ -6967,7 +6973,7 @@ weapons/127mm_62_mk45_mod4_naval_user_cannon;127 毫\t米 5 英\t寸\t/62 Mark 3
 127mm_54_vt_hc_mk41;Mark 41 近\t炸\t引\t信\t高\t爆\t弹
 127mm_54_vt_hc_mk68;Mark 68 近\t炸\t引\t信\t高\t爆\t弹
 weapons/130mm_70_hpj45_naval_user_cannon;130 毫\t米 H/PJ-45 舰\t炮
-130mm_cn_he_vt;杀\t爆\t弹
+130mm_cn_he_vt;ZS-44R
 weapons/30mm_hpj11_naval_user_cannon;30 毫\t米 H/PJ-11 近\t程\t武\t器\t系\t统
 weapons/20mm_m61_phalanx_block1b_naval_user_cannon;20 毫\t米 Mark 15\t“密\t集\t阵”\tBlock 1B 近\t程\t武\t器\t系\t统
 weapons/20mm_m61_phalanx_block1b_naval_user_cannon/short;“密\t集\t阵”
@@ -7145,7 +7151,7 @@ weapons/su_kh_38mle;Kh-38MLE 导\t弹
 weapons/su_kh_38mle/short;Kh-38MLE
 weapons/su_kh_38mte;Kh-38MTE 导\t弹
 weapons/su_kh_38mte/short;Kh-38MTE
-weapons/su_lmur;Kh-39 LMUR (MITL) 导\t弹
+weapons/su_lmur;Kh-39 LMUR 导\t弹\t（人\t在\t回\t路）
 weapons/su_lmur/short;Kh-39 LMUR (MITL)
 weapons/su_lmur_wo_mitl;Kh-39 LMUR 导\t弹
 weapons/su_lmur_wo_mitl/short;Kh-39 LMUR
@@ -7239,7 +7245,7 @@ weapons/dragonfly_atgm;“燧\t石”\t导\t弹
 weapons/dragonfly_atgm/short;“燧\t石”
 weapons/dragonfly_cannon;“光\t柱”\t机\t炮
 weapons/dragonfly_cannon/short;“光\t柱”
-weapons/dragonfly_99_cannon;AC-12\t”抓\t搔“
+weapons/dragonfly_99_cannon;AC-12\t”抓\t搔”
 weapons/dragonfly_99_rocket/short;IR-20
 weapons/dragonfly_99_rocket;IR-20\t“清\t新\t剂”
 180mm_mphe;Maul-MP-HE

@@ -77,7 +77,7 @@ m4a1_0;"柯\t尔\t特\t制\t造\t公\t司
 m4a1_1;M4A1
 m4a1_2;突\t击\t步\t枪
 mac_11_shop;M11
-mac_11_0;"军\t事\t装\t备\t公\t司
+mac_11_0;"柯\t布\t雷\t公\t司
 M11"
 mac_11_1;M11
 mac_11_2;冲\t锋\t枪
@@ -90,7 +90,7 @@ mk_14_ebr_shop;MK 14 EBR
 mk_14_ebr_0;"史\t密\t斯\t企\t业\t公\t司
 7.62 毫\t米\t步\t枪 MK 14 MOD 0 增\t强\t型\t战\t斗\t步\t枪"
 mk_14_ebr_1;MK 14 EBR
-mk_14_ebr_2;战\t斗\t步\t枪
+mk_14_ebr_2;射\t手\t步\t枪
 mk_48_shop;MK 48
 mk_48_0;"FN 制\t造\t公\t司
 7.62 毫\t米\t机\t枪 MK 48 MOD 0"
@@ -101,10 +101,10 @@ pp_19_bizon_0;"伊\t热\t夫\t斯\t克\t机\t械\t制\t造\t厂
 9 毫\t米 PP-19 冲\t锋\t枪"
 pp_19_bizon_1;PP-19
 pp_19_bizon_2;冲\t锋\t枪
-ks_p_18_5_shop;18.5 KS-K
+ks_p_18_5_shop;KS-P
 ks_p_18_5_0;"卡\t拉\t什\t尼\t科\t夫\t集\t团
-18.5 毫\t米\t卡\t拉\t什\t尼\t科\t夫\t特\t种\t卡\t宾\t枪"
-ks_p_18_5_1;18.5 KS-K
+18.5 毫\t米\t附\t枪\t托\t式\t特\t种\t卡\t宾\t枪"
+ks_p_18_5_1;KS-P
 ks_p_18_5_2;霰\t弹\t枪
 mossberg_590_shop;M590
 mossberg_590_0;"O. F. 莫\t斯\t伯\t格\t父\t子
@@ -192,66 +192,76 @@ m24_0;"雷\t明\t顿\t军\t械
 7.62 毫\t米\t狙\t击\t步\t枪 M24 狙\t击\t武\t器\t系\t统"
 m24_1;M24
 m24_2;狙\t击\t步\t枪
-m1903a4_springfield_shop;M1903A4
-us_m1903a4_springfield_shop;M1903A4
-us_m1903a4_springfield_0;"斯\t普\t林\t菲\t尔\t德\t兵\t工\t厂
+m1903a4_springfield_shop;M1903A4\t“斯\t普\t林\t菲\t尔\t德”
+us_m1903a4_springfield_shop;M1903A4\t“斯\t普\t林\t菲\t尔\t德”
+us_m1903a4_springfield_0;"雷\t明\t顿\t军\t械
 .30 口\t径\t美\t国\t步\t枪 M1903A4"
-us_m1903a4_springfield_1;M1903A4
+us_m1903a4_springfield_1;M1903A4\t“斯\t普\t林\t菲\t尔\t德”
 us_m1903a4_springfield_2;狙\t击\t步\t枪
 browning_m1918a2_shop;M1918A2
 us_m1918a2_browning_lmg_shop;M1918A2
-us_m1918a2_browning_lmg_0;.30 口\t径\t勃\t朗\t宁\t自\t动\t步\t枪 M1918A2
+us_m1918a2_browning_lmg_0;"新\t英\t格\t兰\t轻\t武\t器\t公\t司
+.30 口\t径\t勃\t朗\t宁\t自\t动\t步\t枪 M1918A2"
 us_m1918a2_browning_lmg_1;M1918A2
 us_m1918a2_browning_lmg_2;轻\t机\t枪
 m1_carbine_shop;M1 卡\t宾\t枪
 us_m1_carbine_shop;M1 卡\t宾\t枪
-us_m1_carbine_0;.30 口\t径\t美\t国\t卡\t宾\t枪 M1
+us_m1_carbine_0;"GMC
+.30 口\t径\t美\t国\t卡\t宾\t枪 M1"
 us_m1_carbine_1;M1 卡\t宾\t枪
 us_m1_carbine_2;步\t枪
 m1_garand_shop;M1\t“加\t兰\t德”
 us_m1_garand_shop;M1\t“加\t兰\t德”
-us_m1_garand_0;.30 口\t径\t美\t国\t步\t枪 M1
+us_m1_garand_0;"斯\t普\t林\t菲\t尔\t德\t兵\t工\t厂
+.30 口\t径\t美\t国\t步\t枪 M1"
 us_m1_garand_1;M1\t“加\t兰\t德”
 us_m1_garand_2;步\t枪
 m1a1_thompson_shop;M1A1\t“汤\t普\t森”
 us_m1a1_thompson_shop;M1A1\t“汤\t普\t森”
-us_m1a1_thompson_0;.45 口\t径\t美\t国\t冲\t锋\t枪 M1A1
+us_m1a1_thompson_0;"自\t动\t军\t械
+.45 口\t径\t美\t国\t冲\t锋\t枪 M1A1"
 us_m1a1_thompson_1;M1A1\t“汤\t普\t森”
 us_m1a1_thompson_2;冲\t锋\t枪
 m3a1_grease_gun_shop;M3A1
 us_m3a1_smg_shop;M3A1
-us_m3a1_smg_0;.45 口\t径\t美\t国\t冲\t锋\t枪 M3A1
+us_m3a1_smg_0;"GMC
+.45 口\t径\t美\t国\t冲\t锋\t枪 M3A1"
 us_m3a1_smg_1;M3A1
 us_m3a1_smg_2;冲\t锋\t枪
 mosin_m91_shop;莫\t辛\t狙\t击\t步\t枪 1891/30
 ussr_mosin_m91_shop;莫\t辛\t狙\t击\t步\t枪 1891/30
-ussr_mosin_m91_0;"第 74 工\t厂
-7.62 毫\t米\t狙\t击\t步\t枪 1891/30 型"
+ussr_mosin_m91_0;"第 74 国\t营\t联\t合\t工\t厂
+7.62 毫\t米\t狙\t击\t步\t枪 1891/30 型 (56-V-222A)"
 ussr_mosin_m91_1;莫\t辛\t狙\t击\t步\t枪 1891/30
 ussr_mosin_m91_2;步\t枪
 ppd_40_shop;PPD-40
-ussr_ppd_40_shop;7.62 毫\t米\t捷\t格\t加\t廖\t夫\t冲\t锋\t枪 1940 型
+ussr_ppd_40_shop;"第 2 仪\t器\t厂
+7.62 毫\t米\t捷\t格\t加\t廖\t夫\t冲\t锋\t枪 1940 型 (56-A-133)"
 ussr_ppd_40_0;PPD-40
 ussr_ppd_40_1;PPD-40
 ussr_ppd_40_2;冲\t锋\t枪
 pps_43_shop;PPS-43
 ussr_pps_43_shop;PPS-43
-ussr_pps_43_0;7.62 毫\t米\t苏\t达\t耶\t夫\t冲\t锋\t枪 1943 型
+ussr_pps_43_0;"谢\t斯\t特\t罗\t列\t茨\t克\t武\t器\t厂
+7.62 毫\t米\t苏\t达\t耶\t夫\t冲\t锋\t枪 1943 型 (56-A-135)"
 ussr_pps_43_1;PPS-43
 ussr_pps_43_2;冲\t锋\t枪
 rd_44_shop;RD-44
 ussr_rd_44_shop;RD-44
-ussr_rd_44_0;7.62 毫\t米\t捷\t格\t加\t廖\t夫\t手\t持\t机\t枪 1944 型
+ussr_rd_44_0;"第 2 仪\t器\t厂
+7.62 毫\t米\t捷\t格\t加\t廖\t夫\t手\t持\t机\t枪 1944 型"
 ussr_rd_44_1;RD-44
 ussr_rd_44_2;轻\t机\t枪
 sks_shop;SKS
 ussr_sks_shop;SKS
-ussr_sks_0;7.62 毫\t米\t西\t蒙\t诺\t夫\t自\t动\t装\t填\t卡\t宾\t枪
+ussr_sks_0;"第 314 工\t厂
+7.62 毫\t米\t西\t蒙\t诺\t夫\t自\t动\t装\t填\t卡\t宾\t枪 (56-A-231)"
 ussr_sks_1;SKS
 ussr_sks_2;战\t斗\t步\t枪
 svt_40_shop;SVT-40
 ussr_svt_40_shop;SVT-40
-ussr_svt_40_0;7.62 毫\t米\t托\t卡\t列\t夫\t自\t动\t装\t填\t步\t枪 1940 型
+ussr_svt_40_0;"第 314 工\t厂
+7.62 毫\t米\t托\t卡\t列\t夫\t自\t动\t装\t填\t步\t枪 1940 型 (56-V-223S)"
 ussr_svt_40_1;SVT-40
 ussr_svt_40_2;步\t枪
 m16_shop;M16
