@@ -504,6 +504,14 @@ weapons/de_sc50_default/short;SC50
 weapons/de_sc250;250 千\t克 SC250JA 炸\t弹
 weapons/de_sc250_default;250 千\t克 SC250JA 炸\t弹
 weapons/de_sc250_default/short;SC250
+weapons/de_sc250_ja;250 千\t克 SC250JA 炸\t弹
+weapons/de_sc250_ja/short;SC250
+weapons/de_sc250_trialen_wasserbombe;250 千\t克 SC250JA Trialen 深\t水\t炸\t弹
+weapons/de_sc250_trialen_wasserbombe/short;SC250 Trialen
+weapons/de_sc250_wasserbombe;250 千\t克 SC250JA 深\t水\t炸\t弹
+weapons/de_sc250_wasserbombe/short;SC250
+weapons/us_350lb_db_an_mk44;350 磅 AN-Mk 44 深\t水\t炸\t弹
+weapons/us_350lb_db_an_mk44/short;AN-Mk 44
 weapons/de_sc500;500 千\t克 SC500K 炸\t弹
 weapons/de_sc_ag300;300 千\t克 SC AG 炸\t弹
 weapons/de_sc_ag300/short;SC AG
@@ -712,9 +720,9 @@ weapons/us_500lb_mk77_mod2/short;Mk 77 Mod 2
 weapons/us_500lb_mk77_mod4;500 磅 Mk 77 Mod 4 燃\t烧\t弹
 weapons/us_500lb_mk77_mod4/short;Mk 77 Mod 4
 weapons/de_flam_250;250 千\t克 Flamm C 250 燃\t烧\t弹
-weapons/de_flam_250/short;C 250
+weapons/de_flam_250/short;Flamm C 250
 weapons/de_flam_500;500 千\t克 Flamm C 500 燃\t烧\t弹
-weapons/de_flam_500/short;C 500
+weapons/de_flam_500/short;Flamm C 500
 weapons/fr_460l_secan_63;460 升 SECAN 63 燃\t烧\t弹
 weapons/fr_460l_secan_63/short;SECAN 63
 weapons/il_380l_mk2_fire_bomb;380 升 Mark 2 燃\t烧\t弹
@@ -3620,8 +3628,6 @@ weapons/cn_gp_250_1_incendiary;250-1 型\t燃\t烧\t弹
 weapons/cn_gp_250_1_incendiary/short;250-1
 weapons/cn_gp_250_2_incendiary;250-2 型\t燃\t烧\t弹
 weapons/cn_gp_250_2_incendiary/short;250-2
-weapons/su_fab_1500m_46/short;FAB-1500 M-46
-weapons/su_fab_3000m_46/short;FAB-3000 M-46
 weapons/us_100lb_anm30/short;100 磅
 weapons/us_100lbs/short;100 磅
 weapons/us_250lb_anm57/short;250 磅

@@ -8,7 +8,7 @@ guiHints/customLang;"使\t用\t“lang”\t文\t件\t夹\t中\t的\t自\t定\t�
 若\t要\t不\t在\t线\t更\t新\t非\t自\t定\t义\t文\t本\t文\t件，\t请\t访\t问\t以\t下\t链\t接\t并\t下\t载\t所\t有 csv 后\t缀\t文\t件\t替\t换\t官\t方\t本\t地\t化\t文\t件\t或\t自\t行\t解\t包\t替\t换：\t</color>
 <color=@linkTextColor>https://github.com/gszabi99/War-Thunder-Datamine/tree/master/lang.vromfs.bin_u/lang</color>
 <color=@userlogColoredText>若\t要\t修\t改\t本\t汉\t化\t模\t块\t的\t内\t容，\t建\t议\t在\t“cnmod_extra.csv”\t文\t件\t中\t添\t加\t相\t关\t条\t目\t以\t覆\t盖\t此\t本\t地\t化\t模\t块\t的\t翻\t译，\t执\t行\t更\t新\t过\t程\t时\t请\t保\t留\t自\t定\t义\t的\t文\t件。</color>
-<color@warningTextColor>本\t模\t组\t由 Ponparoni 制\t作，\t在\t制\t作\t过\t程\t中\t得\t到\t了\t其\t他\t个\t人\t的\t非\t正\t式\t协\t助。\t</color>"
+<color@chatActiveInfoColor>本\t模\t组\t由 Ponparoni 制\t作，\t在\t制\t作\t过\t程\t中\t得\t到\t了\t其\t他\t个\t人\t的\t非\t正\t式\t协\t助。\t</color>"
 mainmenu/customSoundMods;
 mainmenu/customSoundMods/tooltip;
 <将 TAG 放在该列>;<将翻译文本放在该列>

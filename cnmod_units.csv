@@ -2346,7 +2346,7 @@ germ_panzerjager_tiger_P_elefant_0;虎 (P) 式\t坦\t克\t歼\t击\t车\t“象�
 germ_panzerjager_tiger_P_elefant_1;“象”\t式\t坦\t克\t歼\t击\t车
 germ_panzerjager_tiger_P_elefant_2;自\t行\t火\t炮
 germ_panzerjager_tiger_P_ferdinand_shop;“斐\t迪\t南”\t坦\t克\t歼\t击\t车
-germ_panzerjager_tiger_P_ferdinand_0;虎 (P) 式\t坦\t克\t歼\t击\t车\t“斐\t迪\t南“\t（184 号\t特\t种\t车\t辆）
+germ_panzerjager_tiger_P_ferdinand_0;虎 (P) 式\t坦\t克\t歼\t击\t车\t“斐\t迪\t南”\t（184 号\t特\t种\t车\t辆）
 germ_panzerjager_tiger_P_ferdinand_1;“斐\t迪\t南”\t坦\t克\t歼\t击\t车
 germ_panzerjager_tiger_P_ferdinand_2;自\t行\t火\t炮
 germ_stug_III_ausf_A_shop;三\t号\t突\t击\t炮 A 型
@@ -3120,9 +3120,9 @@ ussr_t_64_b_1984_shop;T-64B
 ussr_t_64_b_1984_0;T-64B 1984 型
 ussr_t_64_b_1984_1;T-64B
 ussr_t_64_b_1984_2;主\t战\t坦\t克
-us_magach_3_shop;▃\t“马\t加\t赫”\t3/\t”夹\t克\t衫”
-us_magach_3_0;▃\t“马\t加\t赫”\t3/\t”夹\t克\t衫”\t爆\t炸\t反\t应\t装\t甲
-us_magach_3_1;▃\t“马\t加\t赫”\t3/\t”夹\t克\t衫”
+us_magach_3_shop;▃\t“马\t加\t赫”\t3/\t“夹\t克\t衫”
+us_magach_3_0;▃\t“马\t加\t赫”\t3/\t“夹\t克\t衫”\t爆\t炸\t反\t应\t装\t甲
+us_magach_3_1;▃\t“马\t加\t赫”\t3/\t“夹\t克\t衫”
 us_magach_3_2;主\t战\t坦\t克
 us_m1_abrams_kvt_shop;M1 KVT\t“艾\t布\t拉\t姆\t斯”
 us_m1_abrams_kvt_0;105 毫\t米\t火\t炮\t履\t带\t式\t战\t斗\t坦\t克 M1 KVT\t（克\t拉\t斯\t诺\t维\t亚\t型\t坦\t克）
@@ -3182,7 +3182,8 @@ uk_tog_2_0;重\t型\t坦\t克 TOG II*
 uk_tog_2_1;TOG II
 uk_tog_2_2;重\t型\t坦\t克
 uk_a1e1_independent_shop;“独\t立”
-uk_a1e1_independent_0;维\t克\t斯\t“独\t立”\t重\t型\t坦\t克 (A1E1)
+uk_a1e1_independent_0;"维\t克\t斯
+“独\t立”\t重\t型\t坦\t克 (A1E1)"
 uk_a1e1_independent_1;“独\t立”
 uk_a1e1_independent_2;重\t型\t坦\t克
 uk_ac1_sentinel_shop;▄\tAC Mk I\t“哨\t兵”
@@ -3211,7 +3212,7 @@ uk_skink_aa_0;▄\t四\t联\t装 20 毫\t米\t防\t空\t坦\t克\t“石\t龙\t�
 uk_skink_aa_1;▄\t“石\t龙\t子”
 uk_skink_aa_2;自\t行\t防\t空\t炮
 uk_falcon_shop;“猎\t鹰”
-uk_falcon_0;"维\t克\t斯-阿\t姆\t斯\t特\t朗\t
+uk_falcon_0;"维\t克\t斯-阿\t姆\t斯\t特\t朗
 “猎\t鹰”"
 uk_falcon_1;“猎\t鹰”
 uk_falcon_2;自\t行\t防\t空\t炮
@@ -3249,7 +3250,8 @@ fr_m46_patton_0;☨ M46 中\t型\t坦\t克
 fr_m46_patton_1;☨ M46 中\t型\t坦\t克
 fr_m46_patton_2;中\t型\t坦\t克
 fr_tpk_641_vpc_shop;VLRA TPK 6.41
-fr_tpk_641_vpc_0;ACMAT 轻\t型\t侦\t察\t支\t援\t车 TPK 6.41 VPC
+fr_tpk_641_vpc_0;"ACMAT
+轻\t型\t侦\t察\t支\t援\t车 TPK 6.41 VPC"
 fr_tpk_641_vpc_1;VLRA TPK 6.41
 fr_tpk_641_vpc_2;自\t行\t防\t空\t炮
 fr_amx_10p_shop;AMX 10P
@@ -3405,7 +3407,7 @@ fr_embt_2;主\t战\t坦\t克
 fr_leclerc_azur_shop;“勒\t克\t莱\t尔”\tAZUR
 fr_leclerc_azur_0;“勒\t克\t莱\t尔”\t（2 系\t列）\tAZUR（城\t市\t地\t区\t行\t动\t套\t件）
 fr_leclerc_azur_1;“勒\t克\t莱\t尔”\tAZUR
-fr_leclerc_azur;主\t战\t坦\t克
+fr_leclerc_azur_2;主\t战\t坦\t克
 fr_leclerc_sxxi_shop;“勒\t克\t莱\t尔”\t（XXI 系\t列）
 fr_leclerc_sxxi_0;“勒\t克\t莱\t尔”\t（XXI 系\t列）
 fr_leclerc_sxxi_1;“勒\t克\t莱\t尔”\t（XXI 系\t列）
@@ -3761,22 +3763,22 @@ wheeled_vehicles/ussr_zis5_fuel_1;【车\t辆\t】\t吉\t斯 5 油\t罐\t车
 wheeled_vehicles/ussr_zis5_fuel_2;车\t辆
 wheeled_vehicles/ussr_zil_131_awning_0;【车\t辆\t】\tZiL-131
 wheeled_vehicles/ussr_zil_131_awning_1;【车\t辆\t】\tZiL-131
-wheeled_vehicles/ussr_zil_131_awning_2;
+wheeled_vehicles/ussr_zil_131_awning_2;车\t辆
 wheeled_vehicles/ussr_zil_131_fuel_carrier_0;【车\t辆\t】\tZiL-131 油\t罐\t车
 wheeled_vehicles/ussr_zil_131_fuel_carrier_1;【车\t辆\t】\tZiL-131 油\t罐\t车
-wheeled_vehicles/ussr_zil_131_fuel_carrier_2;
+wheeled_vehicles/ussr_zil_131_fuel_carrier_2;车\t辆
 wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_0;【车\t辆\t】\tZiL-131 弹\t药\t车
 wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_1;【车\t辆\t】\tZiL-131 弹\t药\t车
-wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;车\t辆
 wheeled_vehicles/us_m35a2_awning_ammo_carrier_0;【车\t辆\t】\tM35A2 弹\t药\t车
 wheeled_vehicles/us_m35a2_awning_ammo_carrier_1;【车\t辆\t】\tM35A2 弹\t药\t车
-wheeled_vehicles/us_m35a2_awning_ammo_carrier_2;
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_2;车\t辆
 wheeled_vehicles/us_m35a2_awning_0;【车\t辆\t】\tM35A2
 wheeled_vehicles/us_m35a2_awning_1;【车\t辆\t】\tM35A2
-wheeled_vehicles/us_m35a2_awning_2;
+wheeled_vehicles/us_m35a2_awning_2;车\t辆
 wheeled_vehicles/us_m35a2_fuel_carrier_0;【车\t辆\t】\tM35A2 油\t罐\t车
 wheeled_vehicles/us_m35a2_fuel_carrier_1;【车\t辆\t】\tM35A2 油\t罐\t车
-wheeled_vehicles/us_m35a2_fuel_carrier_2;
+wheeled_vehicles/us_m35a2_fuel_carrier_2;车\t辆
 wheeled_vehicles/ussr_kamaz_4310_awning_0;【车\t辆\t】\tKAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_1;【车\t辆\t】\tKAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_2;车\t辆
@@ -3883,49 +3885,49 @@ ucav_recon_micro_flir_shop;微\t型\t侦\t察\t无\t人\t机
 ucav_recon_micro_flir_0;ZALA 421-16EM (Z-16IK35)
 ucav_recon_micro_flir_1;无\t人\t机
 ucav_recon_micro_flir_2;无\t人\t机
-ucav_mq_1_predator_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_2;无\t人\t机
-ucav_mq_1_predator_france_killstreak_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_france_killstreak_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_france_killstreak_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_france_killstreak_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_france_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_france_killstreak_2;无\t人\t机
-ucav_mq_1_predator_germany_killstreak_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_germany_killstreak_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_germany_killstreak_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_germany_killstreak_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_germany_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_germany_killstreak_2;无\t人\t机
-ucav_mq_1_predator_iaf_killstreak_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_iaf_killstreak_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_iaf_killstreak_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_iaf_killstreak_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_iaf_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_iaf_killstreak_2;无\t人\t机
-ucav_mq_1_predator_italy_killstreak_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_italy_killstreak_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_italy_killstreak_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_italy_killstreak_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_italy_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_italy_killstreak_2;无\t人\t机
-ucav_mq_1_predator_japan_killstreak_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_japan_killstreak_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_japan_killstreak_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_japan_killstreak_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_japan_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_japan_killstreak_2;无\t人\t机
-ucav_mq_1_predator_sweden_killstreak_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_sweden_killstreak_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_sweden_killstreak_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_sweden_killstreak_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_sweden_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_sweden_killstreak_2;无\t人\t机
-ucav_mq_1_predator_uk_killstreak_shop;MQ-1A\t”捕\t食\t者”
-ucav_mq_1_predator_uk_killstreak_0;通\t用\t原\t子 MQ-1A\t”捕\t食\t者”
-ucav_mq_1_predator_uk_killstreak_1;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_uk_killstreak_shop;MQ-1A\t“捕\t食\t者”
+ucav_mq_1_predator_uk_killstreak_0;通\t用\t原\t子 MQ-1A\t“捕\t食\t者”
+ucav_mq_1_predator_uk_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_uk_killstreak_2;无\t人\t机
-ucav_mq_1_predator_usa_killstreak_shop;MQ-1A\t”捕\t食\t者”
+ucav_mq_1_predator_usa_killstreak_shop;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_usa_killstreak_0;"通\t用\t原\t子
-MQ-1A\t”捕\t食\t者”"
-ucav_mq_1_predator_usa_killstreak_1;MQ-1A\t”捕\t食\t者”
+MQ-1A\t“捕\t食\t者”"
+ucav_mq_1_predator_usa_killstreak_1;MQ-1A\t“捕\t食\t者”
 ucav_mq_1_predator_usa_killstreak_2;无\t人\t机
 ucav_orion_killstreak_shop;“猎\t户\t座”
 ucav_orion_killstreak_0;"喀\t琅\t施\t塔\t得
@@ -4797,7 +4799,7 @@ b6n2a_0;"中\t岛
 B6N2a 天\t山\t一\t二\t型\t甲"
 b6n2a_1;天\t山\t一\t二\t型\t甲
 b6n2a_2;天\t山
-beaufighter_mk1_40mm_shop;“英\t俊\t战\t士”\tMk I/40 毫\t米
+beaufighter_mk1_40mm_shop;“英\t俊\t战\t士”\tMk I (R2055)
 beaufighter_mk1_40mm_0;"布\t里\t斯\t托\t尔
 “英\t俊\t战\t士”\tMk I (R2055)"
 beaufighter_mk1_40mm_1;“英\t俊\t战\t士”
@@ -4891,9 +4893,9 @@ f4u-6_au-1_0;"沃\t特
 AU-1\t“海\t盗”"
 f4u-6_au-1_1;AU-1
 f4u-6_au-1_2;AU-1
-f4d_1_shop;F4D-1\t”天\t光”
+f4d_1_shop;F4D-1\t“天\t光”
 f4d_1_0;"道\t格\t拉\t斯
-F4D-1\t”天\t光”"
+F4D-1\t“天\t光”"
 f4d_1_1;F4D-1
 f4d_1_2;F4D
 shop/group/f4u_group;F4U-1\t“海\t盗”
@@ -5903,7 +5905,7 @@ saab_jas39c_thailand_0;"萨\t博
 ▅\tB.Kh.20"
 saab_jas39c_thailand_1;▅\tB.Kh.20
 saab_jas39c_thailand_2;▅\tB.Kh.20
-shop/group/saab_jas39_group;JAS 39A/C\t“鹰\t狮
+shop/group/saab_jas39_group;JAS 39A/C\t“鹰\t狮”
 sb2c_5_thailand_shop;▅\tB.J.3
 sb2c_5_thailand_0;"柯\t蒂\t斯
 ▅\tB.J.3"
@@ -6204,7 +6206,8 @@ Me 410 B-1/U2\t“大\t黄\t蜂”"
 me-410b-1_u2_1;Me 410 B
 me-410b-1_u2_2;Me 410
 me-410b-2_u4_shop;Me 410 B-2/U4\t“大\t黄\t蜂”
-me-410b-2_u4_0;梅\t塞\t施\t密\t特 Me 410 B-2/U4\t“大\t黄\t蜂”
+me-410b-2_u4_0;"梅\t塞\t施\t密\t特
+Me 410 B-2/U4\t“大\t黄\t蜂”"
 me-410b-2_u4_1;Me 410 B
 me-410b-2_u4_2;Me 410
 me-410b-6_r3_shop;Me 410 B-6/R3\t“大\t黄\t蜂”
@@ -7300,7 +7303,7 @@ p-36c_rb_1;○P-36C
 p-36c_rb_2;○P-36
 p-36g_shop;P-36G\t“鹰”
 p-36g_0;"柯\t蒂\t斯
-P-36G\t“鹰"
+P-36G\t“鹰”"
 p-36g_1;P-36G
 p-36g_2;P-36
 shop/group/lagg-3_group;拉\t格\t-3 早\t期\t型
@@ -7606,7 +7609,7 @@ shop/group/mig-19_china_group;歼\t-6/7
 shop/group/f_5a_china_group;␗\tF-5\t“自\t由\t战\t士”
 shop/group/ba_65_group;Ba.65/⛨ Ju 87
 shop/group/breda_group;Ba.88/P.108A
-shop/group/br_20_dr_group;BR.20\t”鹳”
+shop/group/br_20_dr_group;BR.20\t“鹳”
 shop/group/mc_202_italy_group;C.202\t“霹\t雳”\t/C.205\t“灰\t狗”
 shop/group/z_1007_group;Z.1007\t“翠\t鸟”
 shop/group/p_108_group;P.108B
@@ -9115,7 +9118,7 @@ la-11_china_0;"拉\t沃\t契\t金
 la-11_china_1;␗\t拉\t-11
 la-11_china_2;␗\t拉\t-11
 ki_100_2_shop;五\t式\t战\t二\t型
-Ki_100_2_0;"川\t崎
+ki_100_2_0;"川\t崎
 Ki-100-II 五\t式\t战\t斗\t机\t二\t型"
 ki_100_2_1;五\t式\t战
 ki_100_2_2;五\t式\t战
@@ -9416,9 +9419,9 @@ re_2005_serie0_0;"里\t贾\t内
 Re.2005\t“射\t手\t座”\t（0 批\t次）"
 re_2005_serie0_1;Re.2005
 re_2005_serie0_2;Re.2005
-re_2005_vdm_shop;Re.2005\t“射\t手\t座”\t（MM495）
+re_2005_vdm_shop;Re.2005\t“射\t手\t座”\t(MM495)
 re_2005_vdm_0;"里\t贾\t内
-Re.2005\t“射\t手\t座”\t（MM495）"
+Re.2005\t“射\t手\t座”\t(MM495)"
 re_2005_vdm_1;Re.2005
 re_2005_vdm_2;Re.2005
 sm_91_shop;SM.91
@@ -10341,6 +10344,11 @@ spad_13_0;"SPAD
 S.XIII"
 spad_13_1;SPAD S.XIII
 spad_13_2;SPAD S.XIII
+spad_13_event_shop;SPAD S.XIII
+spad_13_event_0;"SPAD
+S.XIII"
+spad_13_event_1;SPAD S.XIII
+spad_13_event_2;SPAD S.XIII
 hp_12_shop;O/400
 hp_12_0;"汉\t德\t利\t·\t佩\t奇
 O/400 (HP.12)"
@@ -10563,7 +10571,7 @@ germ_artilleriefahrprahm_typ_d1_shop;AF 99
 germ_artilleriefahrprahm_typ_d1_0;D1 型\t火\t炮\t驳\t渡\t船 AF 99 号
 germ_artilleriefahrprahm_typ_d1_1;D1 型\t火\t炮\t驳\t渡\t船
 germ_artilleriefahrprahm_typ_d1_2;炮\t艇
-germ_destroyer_class1936_z20_shop;Z 22\t”安\t东·施\t米\t特”
+germ_destroyer_class1936_z20_shop;Z 22\t“安东·施\t米\t特”
 germ_destroyer_class1936_z20_0;"德\t国\t船\t舶\t与\t机\t械\t制\t造
 1936 型\t驱\t逐\t舰 Z 22\t“安\t东·施\t米\t特”\t号 (1940)"
 germ_destroyer_class1936_z20_1;1936 型\t驱\t逐\t舰
@@ -10986,7 +10994,7 @@ us_xm246_0;35 毫\t米\t自\t行\t防\t空\t炮 XM246
 us_xm246_1;XM246
 us_xm246_2;自\t行\t防\t空\t炮
 us_rdf_lt_shop;RDF/LT
-us_rdf_lt_0;"AAI 公\t司
+us_rdf_lt_0;"AAI
 快\t速\t部\t署\t部\t队\t轻\t型\t坦\t克"
 us_rdf_lt_1;RDF/LT
 us_rdf_lt_2;轻\t型\t坦\t克
@@ -11050,8 +11058,8 @@ il_zsu_57_2_shop;\tZSU-57-2
 il_zsu_57_2_0;\tZSU-57-2
 il_zsu_57_2_1;\tZSU-57-2
 il_zsu_57_2_2;自\t行\t防\t空\t炮
-il_zsu_23_4_shop;"\tZSU-23-4V\t""石\t勒\t喀"""
-il_zsu_23_4_0;"\tZSU-23-4V\t""石\t勒\t喀"""
+il_zsu_23_4_shop;\tZSU-23-4V\t“石\t勒\t喀”
+il_zsu_23_4_0;\tZSU-23-4V\t“石\t勒\t喀”
 il_zsu_23_4_1;\tZSU-23-4V
 il_zsu_23_4_2;自\t行\t防\t空\t炮
 il_tcm_20_shop;\tM3 半\t履\t带\t车\t/TCM-20
@@ -11126,9 +11134,9 @@ il_centurion_shot_kal_d_shop;“绍\t特”\t卡\t尔 Dalet 型
 il_centurion_shot_kal_d_0;“绍\t特”\t卡\t尔 Dalet 型\t（大\t陆\t发\t动\t机\t）
 il_centurion_shot_kal_d_1;“绍\t特”\t卡\t尔 Dalet 型
 il_centurion_shot_kal_d_2;主\t战\t坦\t克
-il_magach_3_shop;“马\t加\t赫”\t3/\t”夹\t克\t衫”
-il_magach_3_0;“马\t加\t赫”\t3/\t”夹\t克\t衫”\t爆\t炸\t反\t应\t装\t甲
-il_magach_3_1;“马\t加\t赫”\t3/\t”夹\t克\t衫”
+il_magach_3_shop;“马\t加\t赫”\t3/\t“夹\t克\t衫”
+il_magach_3_0;“马\t加\t赫”\t3/\t“夹\t克\t衫”\t爆\t炸\t反\t应\t装\t甲
+il_magach_3_1;“马\t加\t赫”\t3/\t“夹\t克\t衫”
 il_magach_3_2;主\t战\t坦\t克
 il_magach_3_idf_shop;“马\t加\t赫”\t3
 il_magach_3_idf_0;“马\t加\t赫”\t3
@@ -11246,9 +11254,9 @@ it_vbc_pt2_shop;VBC 2 号\t原\t型
 it_vbc_pt2_0;战\t斗\t装\t甲\t车 2 号\t原\t型
 it_vbc_pt2_1;VBC 2 号\t原\t型
 it_vbc_pt2_2;步\t兵\t战\t车
-it_vrcc_centauro_shop;VRCC\t”半\t人\t马”
-it_vrcc_centauro_0;骑\t兵\t侦\t察\t战\t斗\t车\t辆\t”半\t人\t马”
-it_vrcc_centauro_1;VRCC\t”半\t人\t马”
+it_vrcc_centauro_shop;VRCC\t“半\t人\t马”
+it_vrcc_centauro_0;骑\t兵\t侦\t察\t战\t斗\t车\t辆\t“半\t人\t马”
+it_vrcc_centauro_1;VRCC\t“半\t人\t马”
 it_vrcc_centauro_2;轻\t型\t坦\t克
 it_centauro_rgo_120_shop;“半\t人\t马”\t（皇\t家\t阿\t曼\t卫\t队）
 it_centauro_rgo_120_0;"B1\t“半\t人\t马”\t/120 毫\t米\t机\t动\t火\t炮\t系\t统
@@ -11473,9 +11481,10 @@ it_toldi_II_a_shop;◐ “托\t尔\t迪”\tIIa
 it_toldi_II_a_0;◐ 42M\t“托\t尔\t迪”\tIIa
 it_toldi_II_a_1;◐ “托\t尔\t迪”\tIIa
 it_toldi_II_a_2;轻\t型\t坦\t克
-it_v_4_straussler_shop;斯\t特\t劳\t斯\t勒 V-4/40
-it_v_4_straussler_0;斯\t特\t劳\t斯\t勒 V-4/40
-it_v_4_straussler_1;斯\t特\t劳\t斯\t勒 V-4/40
+it_v_4_straussler_shop;V-4/40
+it_v_4_straussler_0;"斯\t特\t劳\t斯\t勒
+V-4/40"
+it_v_4_straussler_1;V-4/40
 it_v_4_straussler_2;轻\t型\t坦\t克
 it_m14_41_47_40_shop;M14/41\t／\t47/40
 it_m14_41_47_40_0;"菲\t亚\t特\t-\t安\t萨\t尔\t多
@@ -11551,15 +11560,18 @@ AB43"
 it_ab_43_1;AB43
 it_ab_43_2;装\t甲\t车
 it_fiat_6614_firos_shop;菲\t亚\t特 6614/FIROS 6
-it_fiat_6614_firos_0;菲\t亚\t特 6614 型/FIROS (野\t战\t火\t箭\t系\t统) 6
+it_fiat_6614_firos_0;"菲\t亚\t特
+6614 型/FIROS (野\t战\t火\t箭\t系\t统) 6"
 it_fiat_6614_firos_1;菲\t亚\t特 6614/FIROS 6
 it_fiat_6614_firos_2;多\t管\t火\t箭\t炮
 it_fiat_6614_106sr_shop;菲\t亚\t特 6614/M40A1
-it_fiat_6614_106sr_0;菲\t亚\t特 6614 型/M40A1
+it_fiat_6614_106sr_0;"菲\t亚\t特
+6614 型/M40A1"
 it_fiat_6614_106sr_1;菲\t亚\t特 6614/M40A1
 it_fiat_6614_106sr_2;轻\t型\t坦\t克
 it_fiat_6616_cockerill_shop;菲\t亚\t特 6616/T90 CKL
-it_fiat_6616_cockerill_0;菲\t亚\t特 6616 型\t（奥\t托 T90 CKL 炮\t塔）
+it_fiat_6616_cockerill_0;"菲\t亚\t特
+6616 型\t（奥\t托 T90 CKL 炮\t塔）"
 it_fiat_6616_cockerill_1;菲\t亚\t特 6616/T90 CKL
 it_fiat_6616_cockerill_2;轻\t型\t坦\t克
 it_sherman_VII_shop;⛨\t“萤\t火\t虫”\tMk IC 混\t合\t型
@@ -12188,11 +12200,11 @@ h_34_0;"西\t科\t斯\t基
 CH-34A\t“乔\t克\t托”"
 h_34_1;CH-34A
 h_34_2;CH-34
-h_34_killstreak_shop;"西\t科\t斯\t基
+h_34_killstreak_shop;CH-34A\t“乔\t克\t托”
+h_34_killstreak_0;"西\t科\t斯\t基
 CH-34A\t“乔\t克\t托”"
-h_34_killstreak_0;CH-34A
-h_34_killstreak_1;CH-34
-h_34_killstreak_2;
+h_34_killstreak_1;CH-34A
+h_34_killstreak_2;CH-34
 b_48_firecrest_shop;“火\t冠\t鸟”
 b_48_firecrest_0;"布\t莱\t克\t本
 B-48\t“火\t冠\t鸟”"
@@ -12403,7 +12415,8 @@ ussr_bt_7a_f32_0;BT-7A/F-32
 ussr_bt_7a_f32_1;BT-7A/F-32
 ussr_bt_7a_f32_2;轻\t型\t坦\t克
 it_aubl_74_60_70m_shop;菲\t亚\t特 6616/T60M
-it_aubl_74_60_70m_0;菲\t亚\t特 6616 型\t（奥\t托-布\t雷\t达 T60M 炮\t塔）
+it_aubl_74_60_70m_0;"菲\t亚\t特
+6616 型\t（奥\t托-布\t雷\t达 T60M 炮\t塔）"
 it_aubl_74_60_70m_1;菲\t亚\t特 6616/T60M
 it_aubl_74_60_70m_2;轻\t型\t坦\t克
 us_m901_itv_shop;M901 ITV
@@ -12951,17 +12964,17 @@ cf_188a_canada_1;▄\tCF-188A
 cf_188a_canada_2;▄\tCF-188A
 f_16a_block_5_netherlands_shop;◘\tF-16A-5\t“战\t隼”
 f_16a_block_5_netherlands_0;"通\t用\t动\t力
-◘\tF-16A-5-CF\t”战\t隼”"
+◘\tF-16A-5-CF\t“战\t隼”"
 f_16a_block_5_netherlands_1;◘\tF-16A
 f_16a_block_5_netherlands_2;◘\tF-16A
 f_16am_block_20_mlu_netherlands_shop;◘\tF-16AM-20\t“战\t隼”
 f_16am_block_20_mlu_netherlands_0;"通\t用\t动\t力
-◘\tF-16AM-20-CF MLU\t（中\t期\t升\t级\t型）\t”战\t隼”"
+◘\tF-16AM-20-CF MLU\t（中\t期\t升\t级\t型）\t“战\t隼”"
 f_16am_block_20_mlu_netherlands_1;◘\tF-16AM
 f_16am_block_20_mlu_netherlands_2;◘\tF-16A
 f_16a_block_10_shop;F-16A-10\t“战\t隼”
 f_16a_block_10_0;"通\t用\t动\t力
-F-16A-10-CF\t”战\t隼”"
+F-16A-10-CF\t“战\t隼”"
 f_16a_block_10_1;F-16A
 f_16a_block_10_2;F-16A
 f_16a_block_15_adf_shop;F-16A-15 ADF\t“战\t隼”
@@ -13303,12 +13316,12 @@ ef_2000_aesa_1;▀\tEF-2000
 ef_2000_aesa_2;▀\tEF-2000
 ef_2000a_shop;⛨ F-2000A\t（2 批\t次）
 ef_2000a_0;"欧\t洲\t战\t斗\t机
-⛨ F-2000A\t”台\t风”\t（2 批\t次 Block 15）"
+⛨ F-2000A\t“台\t风”\t（2 批\t次 Block 15）"
 ef_2000a_1;⛨ F-2000A
 ef_2000a_2;⛨ F-2000A
 ef_2000a_aesa_shop;⛨ F-2000A (P4E)
 ef_2000a_aesa_0;"欧\t洲\t战\t斗\t机
-⛨ F-2000A\t”台\t风”\t (四\t阶\t段\t增\t强\t型)"
+⛨ F-2000A\t“台\t风”\t (四\t阶\t段\t增\t强\t型)"
 ef_2000a_aesa_1;⛨ F-2000A
 ef_2000a_aesa_2;⛨ F-2000A
 ef_2000_fgr4_shop;▄\t“台\t风”\tFGR.4
@@ -13647,7 +13660,7 @@ he_115a_2_sweden_1;T 2
 he_115a_2_sweden_2;T 2
 j6b_shop;J 6B
 j6b_0;"瑞\t典\t飞\t机
-J 6B\t”猎\t鹰”"
+J 6B\t“猎\t鹰”"
 j6b_1;J 6B
 j6b_2;J 6
 fiat_cr42_j11_shop;J 11
@@ -13899,9 +13912,9 @@ uk_rooikat_76_shop;▄\t“大\t山\t猫”\tMk 1D
 uk_rooikat_76_0;▄\t“大\t山\t猫”\tMk 1D
 uk_rooikat_76_1;▄\t“大\t山\t猫”\tMk 1D
 uk_rooikat_76_2;轻\t型\t坦\t克
-uk_rooikat_105_td_shop;▄\t“大\t山\t猫”\t/105 毫\t米
-uk_rooikat_105_td_0;▄\t“大\t山\t猫”\t/105 毫\t米
-uk_rooikat_105_td_1;▄\t“大\t山\t猫”\t/105 毫\t米
+uk_rooikat_105_td_shop;▄\t“大\t山\t猫”\t105
+uk_rooikat_105_td_0;▄\t“大\t山\t猫”\t105
+uk_rooikat_105_td_1;▄\t“大\t山\t猫”\t105
 uk_rooikat_105_td_2;轻\t型\t坦\t克
 fr_aml_90_shop;AML 90
 fr_aml_90_0;潘\t哈\t德\t轻\t型\t装\t甲\t车\t（H-90 炮\t塔）
@@ -13921,7 +13934,7 @@ germ_flakpanzer_IV_Ostwind_2_0;四\t号\t防\t空\t坦\t克\t/37 毫\t米\t双\t
 germ_flakpanzer_IV_Ostwind_2_1;“东\t风”\tII 防\t空\t坦\t克
 germ_flakpanzer_IV_Ostwind_2_2;自\t行\t防\t空\t炮
 germ_radpanzer_90_shop;轮\t式\t战\t车 90
-germ_radpanzer_90_0;实\t验\t轮\t式\t战\t车 90
+germ_radpanzer_90_0;轮\t式\t战\t车 90
 germ_radpanzer_90_1;轮\t式\t战\t车 90
 germ_radpanzer_90_2;轻\t型\t坦\t克
 germ_mkpz_m48a2c_shop;▀\tM48A2 C
@@ -14275,9 +14288,9 @@ jp_leopard_2ri_shop;▅\t“豹”\t2RI
 jp_leopard_2ri_0;▅\t“豹”\t2RI
 jp_leopard_2ri_1;▅\t“豹”\t2RI
 jp_leopard_2ri_2;主\t战\t坦\t克
-cn_oplot_t_shop;␗\tBM\t”堡\t垒”\t-M
-cn_oplot_t_0;␗\tBM\t”堡\t垒”\t-M
-cn_oplot_t_1;␗\tBM\t”堡\t垒”\t-M
+cn_oplot_t_shop;␗\tBM\t“堡\t垒”\t-M
+cn_oplot_t_0;␗\tBM\t“堡\t垒”\t-M
+cn_oplot_t_1;␗\tBM\t“堡\t垒”\t-M
 cn_oplot_t_2;主\t战\t坦\t克
 cn_vt_5_shop;VT-5
 cn_vt_5_0;VT-5
@@ -14541,7 +14554,8 @@ jp_m42_duster_0;▅\t双 40 毫\t米\t自\t行\t防\t空\t炮 M42\t“除\t尘\t
 jp_m42_duster_1;▅\tM42\t“除\t尘\t者”
 jp_m42_duster_2;自\t行\t防\t空\t炮
 jp_sub_i_ii_20mm_shop;SUB-I-II/Rh202
-jp_sub_i_ii_20mm_0;三\t菱 SUB-I-II/Rh202
+jp_sub_i_ii_20mm_0;"三\t菱
+SUB-I-II/Rh202"
 jp_sub_i_ii_20mm_1;SUB-I-II
 jp_sub_i_ii_20mm_2;自\t行\t防\t空\t炮
 jp_type_60_sprg_shop;60 式\t自\t走\t无\t反\t动\t炮
@@ -16402,7 +16416,7 @@ germ_battleship_helgoland_1;黑\t尔\t戈\t兰\t级\t战\t列\t舰
 germ_battleship_helgoland_2;战\t列\t舰
 germ_battleship_ostfriesland_shop;东\t弗\t里\t斯\t兰
 germ_battleship_ostfriesland_0;"威\t廉\t港\t帝\t国\t造\t船\t厂
-黑\t尔\t戈\t兰\t级\t大\t型\t战\t列\t舰\t”东\t弗\t里\t斯\t兰”\t号 (1911)"
+黑\t尔\t戈\t兰\t级\t大\t型\t战\t列\t舰\t“东\t弗\t里\t斯\t兰”\t号 (1911)"
 germ_battleship_ostfriesland_1;黑\t尔\t戈\t兰\t级\t战\t列\t舰
 germ_battleship_ostfriesland_2;战\t列\t舰
 ussr_cruiser_zheleznyakov_shop;热\t列\t茲\t尼\t亚\t科\t夫
@@ -16641,7 +16655,7 @@ uk_cruiser_norfolk_1;郡\t级\t重\t巡\t洋\t舰
 uk_cruiser_norfolk_2;重\t巡\t洋\t舰
 jp_cruiser_yubari_shop;夕\t张
 jp_cruiser_yubari_0;"佐\t世\t保\t海\t军\t工\t厂
-F42 计\t划\t轻\t巡\t洋\t舰\t“夕\t张\t (1944)"
+F42 计\t划\t轻\t巡\t洋\t舰\t“夕\t张”\t (1944)"
 jp_cruiser_yubari_1;轻\t巡\t洋\t舰\t“夕\t张”
 jp_cruiser_yubari_2;轻\t巡\t洋\t舰
 ussr_destroyer_pr30bis_smelyi_shop;大\t胆
@@ -16962,7 +16976,7 @@ us_cyclone_class_cyclone_1;旋\t风\t级\t海\t岸\t巡\t逻\t艇
 us_cyclone_class_cyclone_2;炮\t艇
 jp_battleship_fuso_shop;扶\t桑
 jp_battleship_fuso_0;"吴\t海\t军\t工\t厂
-扶\t桑\t型\t（A64）\t战\t舰\t”扶\t桑”\t (1944)"
+扶\t桑\t型\t（A64）\t战\t舰\t“扶\t桑”\t (1944)"
 jp_battleship_fuso_1;扶\t桑\t型\t战\t列\t舰
 jp_battleship_fuso_2;战\t列\t舰
 uk_battlecruiser_glorious_shop;光\t荣
@@ -17010,7 +17024,7 @@ ussr_mpk_pr1331m_0;"皮\t恩\t造\t船\t厂
 133.1M 型\t小\t型\t护\t卫\t舰"
 ussr_mpk_pr1331m_1;133.1M 型\t小\t型\t护\t卫\t舰
 ussr_mpk_pr1331m_2;巡\t逻\t舰
-us_lcm_zippo_shop;LCM(6) 型\t”打\t火\t机”
+us_lcm_zippo_shop;LCM(6) 型\t“打\t火\t机”
 us_lcm_zippo_0;"马\t里\t内\t特\t海\t事
 机\t械\t化\t登\t陆\t艇 Mark 6/“打\t火\t机”型\t内\t河\t炮\t艇"
 us_lcm_zippo_1;机\t械\t化\t登\t陆\t艇 Mark 6
@@ -17430,6 +17444,15 @@ germ_sub_type_7_0;"布\t洛\t姆\t-\t沃\t斯
 VII C/41 型\t潜\t艇 U-995 号 (1945)"
 germ_sub_type_7_1;VII C 型\t潜\t艇
 germ_sub_type_7_2;潜\t艇
+germ_sub_type_21_shop;U-2540
+germ_sub_type_21_0;"布\t洛\t姆\t-\t沃\t斯
+XXI 型\t潜\t艇 U-2540 号 (1945)"
+germ_sub_type_21_1;XXI 型\t潜\t艇
+germ_sub_type_21_2;潜\t艇
+us_sub_tang_shop;刺\t尾\t鲷
+us_sub_tang_0;刺\t尾\t鲷\t级\t潜\t艇\t“刺\t尾\t鲷”\t号 (SS-563, 1951)
+us_sub_tang_1;刺\t尾\t鲷\t级\t潜\t艇
+us_sub_tang_2;潜\t艇
 us_destroyer_fletcher_sub_event_shop;弗\t莱\t彻
 us_destroyer_fletcher_sub_event_0;"联\t邦\t造\t船\t与\t干\t船\t坞
 弗\t莱\t彻\t级\t驱\t逐\t舰\t“弗\t莱\t彻”\t号 (DD-445, 1942)"
@@ -18430,6 +18453,10 @@ uk_cruiser_danae_class_shop;达\t那\t厄
 uk_cruiser_danae_class_0;达\t那\t厄\t级\t轻\t巡\t洋\t舰\t“达\t那\t厄”\t号 (D44, 1944)
 uk_cruiser_danae_class_1;达\t那\t厄\t级\t轻\t巡\t洋\t舰
 uk_cruiser_danae_class_2;轻\t巡\t洋\t舰
+us_pce_842_class_shop;PCE-842
+us_pce_842_class_0;PCE-842 级\t巡\t逻\t护\t卫\t舰 PCE-842 号
+us_pce_842_class_1;PCE-842 级\t巡\t逻\t护\t卫\t舰
+us_pce_842_class_2;炮\t艇
 cn_cm_34_shop;CM34\t“云\t豹”
 cn_cm_34_0;CM34\t“云\t豹”\t式 30 公\t厘\t机\t炮\t装\t步\t战\t斗\t车
 cn_cm_34_1;CM34\t“云\t豹”
@@ -18545,7 +18572,8 @@ uk_fv107_scimitar_mk2_0;FV107 履\t带\t式\t战\t斗\t侦\t察\t车\t“弯\t�
 uk_fv107_scimitar_mk2_1;“弯\t刀”\tMk 2 TES
 uk_fv107_scimitar_mk2_2;轻\t型\t坦\t克
 it_fiat_6616_ub_shop;菲\t亚\t特 6616/UB-16
-it_fiat_6616_ub_0;菲\t亚\t特 6616 型\t（奥\t托 TC 20 炮\t塔）\t/UB-16-57 火\t箭\t吊\t舱
+it_fiat_6616_ub_0;"菲\t亚\t特
+6616 型\t（奥\t托 TC 20 炮\t塔）\t/UB-16-57 火\t箭\t吊\t舱"
 it_fiat_6616_ub_1;菲\t亚\t特 6616/UB-16
 it_fiat_6616_ub_2;轻\t型\t坦\t克
 uk_arjun_mk1_shop;▄\t“阿\t琼”\tMk 1
